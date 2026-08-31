@@ -1,0 +1,16 @@
+"key","from","to","Network_separation_s_AB","overlap_n"
+"HS-PS","HS","PS",-0.594,2
+"PS-VL","PS","VL",-0.272,0
+"AD-PS","AD","PS",-0.267,11
+"HS-VL","HS","VL",-0.185,1
+"AD-HS","AD","HS",-0.152,1
+"AD-CSU","AD","CSU",-0.132,8
+"AD-VL","AD","VL",-0.039,1
+"CSU-VL","CSU","VL",-0.018,1
+"CSU-PS","CSU","PS",0.02,19
+"CSU-HS","CSU","HS",0.05,3
+"CSU-SLS","CSU","SLS",0.332,3
+"AD-SLS","AD","SLS",0.418,0
+"SLS-VL","VL","SLS",0.507,0
+"PS-SLS","PS","SLS",0.597,2
+"HS-SLS","HS","SLS",0.608,0

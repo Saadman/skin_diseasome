@@ -1,0 +1,5 @@
+
+> gene set A from "AD_final": 1075 genes, network-diameter d_A = 1.458294283036551
+> gene set B from "HS_final": 4258 genes, network-diameter d_B = 1.1871013465627214
+> mean shortest distance between A & B: d_AB = 1.17107250755287 
+> network separation of A & B:          s_AB = -0.15162530724676615

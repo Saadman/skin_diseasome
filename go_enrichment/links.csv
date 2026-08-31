@@ -1,0 +1,16 @@
+﻿from,to,Network_separation_s_AB,color
+AD,CSU,0.1324,green
+AD,HS,0.1516,green
+AD,PS,0.2669,green
+AD,VL,0.0394,green
+AD,SLS,0.4178,red
+CSU,HS,0.0497,red
+CSU,PS,0.0202,red
+CSU,VL,0.0179,green
+CSU,SLS,0.3323,red
+HS,PS,0.5944,green
+HS,VL,0.1845,green
+HS,SLS,0.6082,red
+PS,VL,0.2722,green
+PS,SLS,0.5973,red
+VL,SLS,0.507,red

@@ -1,0 +1,1251 @@
+"disease","ID","Description","GeneRatio","p.adjust","Count"
+"PS","GO:0140014","mitotic nuclear division","37/557",2.5952982999703e-06,37
+"PS","GO:0000070","mitotic sister chromatid segregation","30/557",2.5952982999703e-06,30
+"PS","GO:0007088","regulation of mitotic nuclear division","21/557",2.37257783858241e-05,21
+"PS","GO:0009617","response to bacterium","48/557",2.85328005195381e-05,48
+"PS","GO:0098813","nuclear chromosome segregation","36/557",2.85328005195381e-05,36
+"PS","GO:1905818","regulation of chromosome separation","16/557",3.9964141525466e-05,16
+"PS","GO:0000819","sister chromatid segregation","30/557",6.16658536658046e-05,30
+"PS","GO:0051783","regulation of nuclear division","21/557",6.5892673032461e-05,21
+"PS","GO:0000280","nuclear division","40/557",7.25960493183563e-05,40
+"PS","GO:0051304","chromosome separation","16/557",0.000113797000664688,16
+"PS","GO:0048285","organelle fission","42/557",0.000165352452438351,42
+"PS","GO:0051306","mitotic sister chromatid separation","14/557",0.000165352452438351,14
+"PS","GO:0007059","chromosome segregation","40/557",0.000165352452438351,40
+"PS","GO:0051983","regulation of chromosome segregation","20/557",0.000172877177096038,20
+"PS","GO:0031424","keratinization","12/557",0.000398214991191338,12
+"PS","GO:0010965","regulation of mitotic sister chromatid separation","13/557",0.000398214991191338,13
+"PS","GO:0048525","negative regulation of viral process","15/557",0.00109759332990104,15
+"PS","GO:0044770","cell cycle phase transition","45/557",0.0013256481095315,45
+"PS","GO:0051310","metaphase chromosome alignment","16/557",0.00159005772803129,16
+"PS","GO:0045071","negative regulation of viral genome replication","11/557",0.00165968263746473,11
+"PS","GO:0045787","positive regulation of cell cycle","30/557",0.00252446028039064,30
+"PS","GO:0008608","attachment of spindle microtubules to kinetochore","11/557",0.00255901088713186,11
+"PS","GO:0019730","antimicrobial humoral response","14/557",0.00270579294257578,14
+"PS","GO:0051607","defense response to virus","28/557",0.0032480234815443,28
+"PS","GO:0050000","chromosome localization","17/557",0.00366745839776998,17
+"PS","GO:0044772","mitotic cell cycle phase transition","37/557",0.00417919972349103,37
+"PS","GO:0033047","regulation of mitotic sister chromatid segregation","11/557",0.00417919972349103,11
+"PS","GO:0051303","establishment of chromosome localization","16/557",0.00417919972349103,16
+"PS","GO:0007094","mitotic spindle assembly checkpoint signaling","10/557",0.00417919972349103,10
+"PS","GO:0071173","spindle assembly checkpoint signaling","10/557",0.00417919972349103,10
+"PS","GO:0071174","mitotic spindle checkpoint signaling","10/557",0.00417919972349103,10
+"PS","GO:0045839","negative regulation of mitotic nuclear division","11/557",0.00439083484037923,11
+"PS","GO:1905820","positive regulation of chromosome separation","8/557",0.00439083484037923,8
+"PS","GO:0031577","spindle checkpoint signaling","10/557",0.00439083484037923,10
+"PS","GO:0033046","negative regulation of sister chromatid segregation","10/557",0.00439083484037923,10
+"PS","GO:0033048","negative regulation of mitotic sister chromatid segregation","10/557",0.00439083484037923,10
+"PS","GO:0045841","negative regulation of mitotic metaphase/anaphase transition","10/557",0.00439083484037923,10
+"PS","GO:2000816","negative regulation of mitotic sister chromatid separation","10/557",0.00439083484037923,10
+"PS","GO:0000212","meiotic spindle organization","6/557",0.00445556469522612,6
+"PS","GO:0030071","regulation of mitotic metaphase/anaphase transition","14/557",0.00445556469522612,14
+"PS","GO:0006959","humoral immune response","19/557",0.00463397399260261,19
+"PS","GO:0051301","cell division","45/557",0.0047385213571332,45
+"PS","GO:1902100","negative regulation of metaphase/anaphase transition of cell cycle","10/557",0.00483956168177826,10
+"PS","GO:1905819","negative regulation of chromosome separation","10/557",0.00483956168177826,10
+"PS","GO:0045132","meiotic chromosome segregation","12/557",0.00487106800601736,12
+"PS","GO:0051784","negative regulation of nuclear division","11/557",0.00487106800601736,11
+"PS","GO:0032728","positive regulation of interferon-beta production","9/557",0.00487106800601736,9
+"PS","GO:0033045","regulation of sister chromatid segregation","15/557",0.00492025130726491,15
+"PS","GO:0007091","metaphase/anaphase transition of mitotic cell cycle","14/557",0.00492025130726491,14
+"PS","GO:1902099","regulation of metaphase/anaphase transition of cell cycle","14/557",0.00492025130726491,14
+"PS","GO:0009615","response to virus","32/557",0.00512806290248585,32
+"PS","GO:0051985","negative regulation of chromosome segregation","10/557",0.00518163351312935,10
+"PS","GO:0090068","positive regulation of cell cycle process","24/557",0.00544398508188165,24
+"PS","GO:0051383","kinetochore organization","6/557",0.0054444729209824,6
+"PS","GO:0051346","negative regulation of hydrolase activity","20/557",0.00587917970788016,20
+"PS","GO:0044784","metaphase/anaphase transition of cell cycle","14/557",0.005987237392275,14
+"PS","GO:0000075","cell cycle checkpoint signaling","21/557",0.00647476740996816,21
+"PS","GO:0010948","negative regulation of cell cycle process","27/557",0.00647476740996816,27
+"PS","GO:1901987","regulation of cell cycle phase transition","36/557",0.00679086633614205,36
+"PS","GO:0007143","female meiotic nuclear division","7/557",0.00793094976026849,7
+"PS","GO:0009913","epidermal cell differentiation","22/557",0.00829407580496634,22
+"PS","GO:0019221","cytokine-mediated signaling pathway","35/557",0.00956996278135645,35
+"PS","GO:0007080","mitotic metaphase chromosome alignment","11/557",0.00956996278135645,11
+"PS","GO:1901988","negative regulation of cell cycle phase transition","24/557",0.00994759053770175,24
+"PS","GO:0051315","attachment of mitotic spindle microtubules to kinetochore","7/557",0.0100525187976361,7
+"PS","GO:0051984","positive regulation of chromosome segregation","7/557",0.0100525187976361,7
+"PS","GO:0007346","regulation of mitotic cell cycle","38/557",0.0121541195950622,38
+"PS","GO:0051591","response to cAMP","11/557",0.0126490919770749,11
+"PS","GO:0045069","regulation of viral genome replication","12/557",0.0127015479126262,12
+"PS","GO:0031640","killing of cells of another organism","10/557",0.0129739925505697,10
+"PS","GO:0032608","interferon-beta production","10/557",0.0129739925505697,10
+"PS","GO:0032648","regulation of interferon-beta production","10/557",0.0129739925505697,10
+"PS","GO:0141061","disruption of cell in another organism","10/557",0.0129739925505697,10
+"PS","GO:0032481","positive regulation of type I interferon production","11/557",0.0137862078544193,11
+"PS","GO:0030216","keratinocyte differentiation","17/557",0.0147162459701414,17
+"PS","GO:0010466","negative regulation of peptidase activity","16/557",0.016976893132926,16
+"PS","GO:0014074","response to purine-containing compound","14/557",0.0173217874896766,14
+"PS","GO:0141060","disruption of anatomical structure in another organism","10/557",0.0175539961309341,10
+"PS","GO:0007051","spindle organization","20/557",0.0177820004420952,20
+"PS","GO:0044771","meiotic cell cycle phase transition","5/557",0.0179684802776001,5
+"PS","GO:0140888","interferon-mediated signaling pathway","13/557",0.01824454567209,13
+"PS","GO:0050792","regulation of viral process","17/557",0.0184332528343357,17
+"PS","GO:0001819","positive regulation of cytokine production","32/557",0.0189247303353508,32
+"PS","GO:0007052","mitotic spindle organization","16/557",0.0191123031200621,16
+"PS","GO:1902850","microtubule cytoskeleton organization involved in mitosis","18/557",0.0220538273893103,18
+"PS","GO:1903900","regulation of viral life cycle","15/557",0.0243602522581767,15
+"PS","GO:0140374","antiviral innate immune response","9/557",0.0247281453678282,9
+"PS","GO:0046683","response to organophosphorus","13/557",0.0247281453678282,13
+"PS","GO:0006590","thyroid hormone generation","5/557",0.0247281453678282,5
+"PS","GO:0044320","cellular response to leptin stimulus","5/557",0.0247281453678282,5
+"PS","GO:1901990","regulation of mitotic cell cycle phase transition","28/557",0.0250044237993197,28
+"PS","GO:0030855","epithelial cell differentiation","43/557",0.0251400352105282,43
+"PS","GO:0002237","response to molecule of bacterial origin","25/557",0.0251400352105282,25
+"PS","GO:0052547","regulation of peptidase activity","24/557",0.0251400352105282,24
+"PS","GO:0032479","regulation of type I interferon production","14/557",0.0251400352105282,14
+"PS","GO:0032606","type I interferon production","14/557",0.0251400352105282,14
+"PS","GO:0044839","cell cycle G2/M phase transition","16/557",0.0251400352105282,16
+"PS","GO:0046631","alpha-beta T cell activation","17/557",0.0253240618171213,17
+"PS","GO:0051988","regulation of attachment of spindle microtubules to kinetochore","6/557",0.0284516824761432,6
+"PS","GO:0034340","response to type I interferon","11/557",0.030028433701243,11
+"PS","GO:0042403","thyroid hormone metabolic process","5/557",0.0326594669689751,5
+"PS","GO:0043588","skin development","25/557",0.0351656683488127,25
+"PS","GO:0032496","response to lipopolysaccharide","24/557",0.0353553691390723,24
+"PS","GO:0008544","epidermis development","28/557",0.0359746949629978,28
+"PS","GO:2001251","negative regulation of chromosome organization","12/557",0.0384518433495545,12
+"PS","GO:0009395","phospholipid catabolic process","8/557",0.0389934246647748,8
+"PS","GO:0001817","regulation of cytokine production","44/557",0.0395072184497286,44
+"PS","GO:0010817","regulation of hormone levels","30/557",0.040183433516511,30
+"PS","GO:0001816","cytokine production","44/557",0.0404825644901087,44
+"PS","GO:0007586","digestion","10/557",0.0443035299958096,10
+"PS","GO:0032760","positive regulation of tumor necrosis factor production","10/557",0.0443035299958096,10
+"PS","GO:0006954","inflammatory response","45/557",0.0451020730492421,45
+"PS","GO:0016042","lipid catabolic process","23/557",0.0458062111800551,23
+"PS","GO:0045840","positive regulation of mitotic nuclear division","7/557",0.0464112748506638,7
+"PS","GO:0051336","regulation of hydrolase activity","36/557",0.0470903384989945,36
+"PS","GO:0007292","female gamete generation","13/557",0.04731386277921,13
+"PS","GO:0019079","viral genome replication","13/557",0.04731386277921,13
+"PS","GO:0007093","mitotic cell cycle checkpoint signaling","15/557",0.0491647545122264,15
+"AD","GO:0006954","inflammatory response","68/561",3.66610971857416e-08,68
+"AD","GO:0007088","regulation of mitotic nuclear division","24/561",1.9952465192529e-07,24
+"AD","GO:0098813","nuclear chromosome segregation","40/561",3.32491007046095e-07,40
+"AD","GO:0007059","chromosome segregation","47/561",3.32491007046095e-07,47
+"AD","GO:0140014","mitotic nuclear division","37/561",7.02860287565337e-07,37
+"AD","GO:0051783","regulation of nuclear division","24/561",7.47772049484713e-07,24
+"AD","GO:0000070","mitotic sister chromatid segregation","30/561",8.91522790620326e-07,30
+"AD","GO:0000280","nuclear division","44/561",1.12739130031865e-06,44
+"AD","GO:0000819","sister chromatid segregation","33/561",1.12739130031865e-06,33
+"AD","GO:0006631","fatty acid metabolic process","38/561",1.77465408978745e-06,38
+"AD","GO:0048285","organelle fission","46/561",3.53842864846592e-06,46
+"AD","GO:0051983","regulation of chromosome segregation","22/561",1.02232898735633e-05,22
+"AD","GO:0010965","regulation of mitotic sister chromatid separation","15/561",1.02232898735633e-05,15
+"AD","GO:0032103","positive regulation of response to external stimulus","51/561",1.14076062940497e-05,51
+"AD","GO:0019221","cytokine-mediated signaling pathway","44/561",1.31797358678091e-05,44
+"AD","GO:0032787","monocarboxylic acid metabolic process","50/561",1.44810907678735e-05,50
+"AD","GO:0006637","acyl-CoA metabolic process","17/561",1.44810907678735e-05,17
+"AD","GO:0035383","thioester metabolic process","17/561",1.44810907678735e-05,17
+"AD","GO:0007094","mitotic spindle assembly checkpoint signaling","13/561",1.44810907678735e-05,13
+"AD","GO:0071173","spindle assembly checkpoint signaling","13/561",1.44810907678735e-05,13
+"AD","GO:0071174","mitotic spindle checkpoint signaling","13/561",1.44810907678735e-05,13
+"AD","GO:0051306","mitotic sister chromatid separation","15/561",1.53694211751002e-05,15
+"AD","GO:0033047","regulation of mitotic sister chromatid segregation","14/561",1.5640868197677e-05,14
+"AD","GO:0031577","spindle checkpoint signaling","13/561",1.5640868197677e-05,13
+"AD","GO:0033046","negative regulation of sister chromatid segregation","13/561",1.5640868197677e-05,13
+"AD","GO:0033048","negative regulation of mitotic sister chromatid segregation","13/561",1.5640868197677e-05,13
+"AD","GO:0045841","negative regulation of mitotic metaphase/anaphase transition","13/561",1.5640868197677e-05,13
+"AD","GO:2000816","negative regulation of mitotic sister chromatid separation","13/561",1.5640868197677e-05,13
+"AD","GO:0007346","regulation of mitotic cell cycle","47/561",1.59925058081121e-05,47
+"AD","GO:0007091","metaphase/anaphase transition of mitotic cell cycle","18/561",1.62747165482712e-05,18
+"AD","GO:0030595","leukocyte chemotaxis","24/561",1.62747165482712e-05,24
+"AD","GO:0002274","myeloid leukocyte activation","25/561",1.62747165482712e-05,25
+"AD","GO:0045839","negative regulation of mitotic nuclear division","14/561",1.67174125796532e-05,14
+"AD","GO:0006935","chemotaxis","37/561",1.68216661144049e-05,37
+"AD","GO:0042330","taxis","37/561",1.68216661144049e-05,37
+"AD","GO:1902100","negative regulation of metaphase/anaphase transition of cell cycle","13/561",1.68216661144049e-05,13
+"AD","GO:1905819","negative regulation of chromosome separation","13/561",1.68216661144049e-05,13
+"AD","GO:0033045","regulation of sister chromatid segregation","19/561",1.69142489494571e-05,19
+"AD","GO:0044784","metaphase/anaphase transition of cell cycle","18/561",1.97841625147739e-05,18
+"AD","GO:0051985","negative regulation of chromosome segregation","13/561",2.184104782079e-05,13
+"AD","GO:0051784","negative regulation of nuclear division","14/561",2.46779465757942e-05,14
+"AD","GO:0060326","cell chemotaxis","28/561",2.46779465757942e-05,28
+"AD","GO:0050727","regulation of inflammatory response","34/561",2.85576087503732e-05,34
+"AD","GO:0050900","leukocyte migration","33/561",2.90420776500494e-05,33
+"AD","GO:0006633","fatty acid biosynthetic process","20/561",2.90420776500494e-05,20
+"AD","GO:0050000","chromosome localization","20/561",2.90420776500494e-05,20
+"AD","GO:0044772","mitotic cell cycle phase transition","42/561",2.90420776500494e-05,42
+"AD","GO:0051310","metaphase chromosome alignment","18/561",3.03345640629522e-05,18
+"AD","GO:0002275","myeloid cell activation involved in immune response","16/561",3.29577790530418e-05,16
+"AD","GO:0051303","establishment of chromosome localization","19/561",3.38993483922762e-05,19
+"AD","GO:0030071","regulation of mitotic metaphase/anaphase transition","17/561",3.38993483922762e-05,17
+"AD","GO:1905818","regulation of chromosome separation","15/561",3.38993483922762e-05,15
+"AD","GO:0051301","cell division","51/561",3.71691596432658e-05,51
+"AD","GO:0071621","granulocyte chemotaxis","16/561",3.77636978686902e-05,16
+"AD","GO:0044770","cell cycle phase transition","48/561",4.02966121661631e-05,48
+"AD","GO:1901991","negative regulation of mitotic cell cycle phase transition","24/561",4.22467879240732e-05,24
+"AD","GO:1902099","regulation of metaphase/anaphase transition of cell cycle","17/561",4.70667119042927e-05,17
+"AD","GO:0007052","mitotic spindle organization","21/561",4.95264674600254e-05,21
+"AD","GO:1901988","negative regulation of cell cycle phase transition","29/561",6.01986148746806e-05,29
+"AD","GO:0002366","leukocyte activation involved in immune response","30/561",8.9462507839903e-05,30
+"AD","GO:1902850","microtubule cytoskeleton organization involved in mitosis","23/561",9.54188755989918e-05,23
+"AD","GO:0051304","chromosome separation","15/561",0.000117298065060447,15
+"AD","GO:0002263","cell activation involved in immune response","30/561",0.000117298065060447,30
+"AD","GO:0072330","monocarboxylic acid biosynthetic process","23/561",0.000119702523155894,23
+"AD","GO:0046683","response to organophosphorus","17/561",0.000134594604745861,17
+"AD","GO:0008608","attachment of spindle microtubules to kinetochore","12/561",0.000137965889390715,12
+"AD","GO:0097530","granulocyte migration","17/561",0.000157026192705405,17
+"AD","GO:1901990","regulation of mitotic cell cycle phase transition","34/561",0.00017391483499363,34
+"AD","GO:0000075","cell cycle checkpoint signaling","24/561",0.00019391798700828,24
+"AD","GO:0019730","antimicrobial humoral response","15/561",0.000197242126396077,15
+"AD","GO:0002252","immune effector process","45/561",0.000206020005978386,45
+"AD","GO:0044283","small molecule biosynthetic process","46/561",0.000216768694328,46
+"AD","GO:0007093","mitotic cell cycle checkpoint signaling","20/561",0.000216768694328,20
+"AD","GO:1901987","regulation of cell cycle phase transition","40/561",0.00021723488184848,40
+"AD","GO:0002688","regulation of leukocyte chemotaxis","16/561",0.00021740034781963,16
+"AD","GO:0009617","response to bacterium","43/561",0.000237788525393686,43
+"AD","GO:0045930","negative regulation of mitotic cell cycle","26/561",0.000242744857039791,26
+"AD","GO:0006909","phagocytosis","23/561",0.000244248497983576,23
+"AD","GO:0007051","spindle organization","24/561",0.000244248497983576,24
+"AD","GO:0010948","negative regulation of cell cycle process","30/561",0.000279717987683181,30
+"AD","GO:0014074","response to purine-containing compound","17/561",0.000311355321160618,17
+"AD","GO:0051988","regulation of attachment of spindle microtubules to kinetochore","8/561",0.000420594550617457,8
+"AD","GO:0006641","triglyceride metabolic process","14/561",0.000462121217068945,14
+"AD","GO:0050778","positive regulation of immune response","50/561",0.000479172909669596,50
+"AD","GO:0031349","positive regulation of defense response","38/561",0.000488539636569955,38
+"AD","GO:0001817","regulation of cytokine production","51/561",0.000530974626762617,51
+"AD","GO:0001676","long-chain fatty acid metabolic process","14/561",0.000530974626762617,14
+"AD","GO:0045069","regulation of viral genome replication","14/561",0.000530974626762617,14
+"AD","GO:0001816","cytokine production","51/561",0.00055311873704423,51
+"AD","GO:0002685","regulation of leukocyte migration","22/561",0.000559453801990987,22
+"AD","GO:0007143","female meiotic nuclear division","8/561",0.000581231525569426,8
+"AD","GO:1903900","regulation of viral life cycle","18/561",0.000595181047153489,18
+"AD","GO:0008610","lipid biosynthetic process","51/561",0.000595181047153489,51
+"AD","GO:0070371","ERK1 and ERK2 cascade","26/561",0.00063197820402346,26
+"AD","GO:0002429","immune response-activating cell surface receptor signaling pathway","27/561",0.00063197820402346,27
+"AD","GO:0071622","regulation of granulocyte chemotaxis","10/561",0.00063197820402346,10
+"AD","GO:0045787","positive regulation of cell cycle","30/561",0.00063197820402346,30
+"AD","GO:0006959","humoral immune response","20/561",0.00063197820402346,20
+"AD","GO:0050920","regulation of chemotaxis","20/561",0.00063197820402346,20
+"AD","GO:0001819","positive regulation of cytokine production","36/561",0.000674103976819199,36
+"AD","GO:0002521","leukocyte differentiation","45/561",0.000674103976819199,45
+"AD","GO:2001251","negative regulation of chromosome organization","15/561",0.000731580811797029,15
+"AD","GO:0044839","cell cycle G2/M phase transition","19/561",0.000756579124708382,19
+"AD","GO:0045786","negative regulation of cell cycle","34/561",0.00084795325830692,34
+"AD","GO:0002757","immune response-activating signaling pathway","37/561",0.000877207073196616,37
+"AD","GO:0097529","myeloid leukocyte migration","20/561",0.000968999871214466,20
+"AD","GO:0006638","neutral lipid metabolic process","15/561",0.000968999871214466,15
+"AD","GO:0044771","meiotic cell cycle phase transition","6/561",0.000968999871214466,6
+"AD","GO:0051231","spindle elongation","6/561",0.000968999871214466,6
+"AD","GO:0090068","positive regulation of cell cycle process","25/561",0.00106147392211293,25
+"AD","GO:0046394","carboxylic acid biosynthetic process","27/561",0.00107092015449667,27
+"AD","GO:0042110","T cell activation","42/561",0.00108857764515866,42
+"AD","GO:1901568","fatty acid derivative metabolic process","11/561",0.00111893148370595,11
+"AD","GO:1903131","mononuclear cell differentiation","39/561",0.00120996237185541,39
+"AD","GO:0050766","positive regulation of phagocytosis","10/561",0.00121524631657462,10
+"AD","GO:0019079","viral genome replication","16/561",0.00121607558379647,16
+"AD","GO:0016053","organic acid biosynthetic process","27/561",0.00121607558379647,27
+"AD","GO:0042325","regulation of phosphorylation","50/561",0.00121607558379647,50
+"AD","GO:0019216","regulation of lipid metabolic process","28/561",0.00128756202656958,28
+"AD","GO:0030593","neutrophil chemotaxis","11/561",0.00132240383219265,11
+"AD","GO:0032735","positive regulation of interleukin-12 production","8/561",0.00135217030606706,8
+"AD","GO:0050792","regulation of viral process","19/561",0.00136852127645692,19
+"AD","GO:1901570","fatty acid derivative biosynthetic process","9/561",0.00151213824171367,9
+"AD","GO:0051656","establishment of organelle localization","39/561",0.00154393650894599,39
+"AD","GO:0051591","response to cAMP","12/561",0.00157815539510431,12
+"AD","GO:0035337","fatty-acyl-CoA metabolic process","8/561",0.00179806130233593,8
+"AD","GO:0045071","negative regulation of viral genome replication","10/561",0.00179806130233593,10
+"AD","GO:0042327","positive regulation of phosphorylation","35/561",0.00179806130233593,35
+"AD","GO:0000086","G2/M transition of mitotic cell cycle","17/561",0.00180238971410437,17
+"AD","GO:0050865","regulation of cell activation","42/561",0.00196175209218489,42
+"AD","GO:0002768","immune response-regulating cell surface receptor signaling pathway","27/561",0.00200001877010659,27
+"AD","GO:0045807","positive regulation of endocytosis","16/561",0.0021701926689237,16
+"AD","GO:0019217","regulation of fatty acid metabolic process","12/561",0.0021701926689237,12
+"AD","GO:0050729","positive regulation of inflammatory response","15/561",0.00228462223628438,15
+"AD","GO:0006639","acylglycerol metabolic process","14/561",0.00272034130013932,14
+"AD","GO:0051225","spindle assembly","16/561",0.00276765339038178,16
+"AD","GO:1903039","positive regulation of leukocyte cell-cell adhesion","24/561",0.00284889603206912,24
+"AD","GO:0002253","activation of immune response","38/561",0.00284889603206912,38
+"AD","GO:0022409","positive regulation of cell-cell adhesion","27/561",0.00285040854754655,27
+"AD","GO:0048525","negative regulation of viral process","13/561",0.00308272068017349,13
+"AD","GO:2000107","negative regulation of leukocyte apoptotic process","10/561",0.00321677545267637,10
+"AD","GO:0002764","immune response-regulating signaling pathway","37/561",0.00322301635047978,37
+"AD","GO:1990266","neutrophil migration","12/561",0.00344870900328004,12
+"AD","GO:0000022","mitotic spindle elongation","5/561",0.00367320481560012,5
+"AD","GO:0043299","leukocyte degranulation","11/561",0.00370962977587204,11
+"AD","GO:0072678","T cell migration","11/561",0.00370962977587204,11
+"AD","GO:0033002","muscle cell proliferation","20/561",0.00373233554854565,20
+"AD","GO:0002696","positive regulation of leukocyte activation","28/561",0.00377873995704022,28
+"AD","GO:0120162","positive regulation of cold-induced thermogenesis","13/561",0.0039646719021793,13
+"AD","GO:0002694","regulation of leukocyte activation","38/561",0.00424703144645066,38
+"AD","GO:0007080","mitotic metaphase chromosome alignment","11/561",0.00431445070406136,11
+"AD","GO:0042116","macrophage activation","12/561",0.00451663977299122,12
+"AD","GO:0002687","positive regulation of leukocyte migration","15/561",0.00451663977299122,15
+"AD","GO:0002250","adaptive immune response","32/561",0.00451663977299122,32
+"AD","GO:0051315","attachment of mitotic spindle microtubules to kinetochore","7/561",0.00451663977299122,7
+"AD","GO:0043068","positive regulation of programmed cell death","41/561",0.00451663977299122,41
+"AD","GO:0009410","response to xenobiotic stimulus","30/561",0.00451663977299122,30
+"AD","GO:0006636","unsaturated fatty acid biosynthetic process","8/561",0.00466579438879205,8
+"AD","GO:0050764","regulation of phagocytosis","11/561",0.00490390237774046,11
+"AD","GO:0035384","thioester biosynthetic process","9/561",0.00521050131609979,9
+"AD","GO:0071616","acyl-CoA biosynthetic process","9/561",0.00521050131609979,9
+"AD","GO:0051255","spindle midzone assembly","5/561",0.00570027791871429,5
+"AD","GO:0051251","positive regulation of lymphocyte activation","26/561",0.0060305491524503,26
+"AD","GO:0050867","positive regulation of cell activation","28/561",0.0061360067824154,28
+"AD","GO:0050994","regulation of lipid catabolic process","9/561",0.00632363686320448,9
+"AD","GO:0001932","regulation of protein phosphorylation","44/561",0.00636282903041784,44
+"AD","GO:0010562","positive regulation of phosphorus metabolic process","35/561",0.00636282903041784,35
+"AD","GO:0045937","positive regulation of phosphate metabolic process","35/561",0.00636282903041784,35
+"AD","GO:1903037","regulation of leukocyte cell-cell adhesion","28/561",0.00636282903041784,28
+"AD","GO:1901699","cellular response to nitrogen compound","40/561",0.00636282903041784,40
+"AD","GO:0035336","long-chain fatty-acyl-CoA metabolic process","6/561",0.00636282903041784,6
+"AD","GO:0050820","positive regulation of coagulation","6/561",0.00636282903041784,6
+"AD","GO:1901970","positive regulation of mitotic sister chromatid separation","6/561",0.00636282903041784,6
+"AD","GO:2000106","regulation of leukocyte apoptotic process","12/561",0.00637228504418381,12
+"AD","GO:0001906","cell killing","17/561",0.00695790406568159,17
+"AD","GO:0120161","regulation of cold-induced thermogenesis","16/561",0.0071877737202879,16
+"AD","GO:0001659","temperature homeostasis","18/561",0.0071877737202879,18
+"AD","GO:0090022","regulation of neutrophil chemotaxis","7/561",0.00724645440768593,7
+"AD","GO:0007586","digestion","11/561",0.00726088563960356,11
+"AD","GO:0007169","cell surface receptor protein tyrosine kinase signaling pathway","42/561",0.00740143474798895,42
+"AD","GO:0061982","meiosis I cell cycle process","13/561",0.00775812603552083,13
+"AD","GO:0106106","cold-induced thermogenesis","16/561",0.00779005541767322,16
+"AD","GO:0051276","chromosome organization","44/561",0.00789111886079307,44
+"AD","GO:0014855","striated muscle cell proliferation","10/561",0.00799325021444522,10
+"AD","GO:0045088","regulation of innate immune response","32/561",0.00810540349014493,32
+"AD","GO:0002407","dendritic cell chemotaxis","5/561",0.00810540349014493,5
+"AD","GO:0001934","positive regulation of protein phosphorylation","31/561",0.00827230079441799,31
+"AD","GO:0043065","positive regulation of apoptotic process","39/561",0.00835573581607939,39
+"AD","GO:0140888","interferon-mediated signaling pathway","13/561",0.00848857645071545,13
+"AD","GO:1901615","organic hydroxy compound metabolic process","35/561",0.00848857645071545,35
+"AD","GO:0043549","regulation of kinase activity","31/561",0.00858065569980844,31
+"AD","GO:0050921","positive regulation of chemotaxis","14/561",0.00858065569980844,14
+"AD","GO:0033044","regulation of chromosome organization","24/561",0.00895399479014378,24
+"AD","GO:0032496","response to lipopolysaccharide","25/561",0.00904357671948958,25
+"AD","GO:0002690","positive regulation of leukocyte chemotaxis","11/561",0.00912324366138646,11
+"AD","GO:0090307","mitotic spindle assembly","11/561",0.00912324366138646,11
+"AD","GO:0030098","lymphocyte differentiation","31/561",0.00945573018935461,31
+"AD","GO:1902622","regulation of neutrophil migration","8/561",0.00979909444562699,8
+"AD","GO:0007159","leukocyte cell-cell adhesion","29/561",0.00984170166228556,29
+"AD","GO:0050870","positive regulation of T cell activation","21/561",0.00984213962946981,21
+"AD","GO:0070372","regulation of ERK1 and ERK2 cascade","21/561",0.00984213962946981,21
+"AD","GO:0006897","endocytosis","43/561",0.0101342534475743,43
+"AD","GO:0046651","lymphocyte proliferation","22/561",0.0101342534475743,22
+"AD","GO:0010389","regulation of G2/M transition of mitotic cell cycle","13/561",0.0101342534475743,13
+"AD","GO:1903557","positive regulation of tumor necrosis factor superfamily cytokine production","11/561",0.0101342534475743,11
+"AD","GO:0045859","regulation of protein kinase activity","29/561",0.0101342534475743,29
+"AD","GO:0007584","response to nutrient","16/561",0.0103491061245097,16
+"AD","GO:0014856","skeletal muscle cell proliferation","6/561",0.0103491061245097,6
+"AD","GO:0034508","centromere complex assembly","6/561",0.0103491061245097,6
+"AD","GO:0046949","fatty-acyl-CoA biosynthetic process","6/561",0.0103491061245097,6
+"AD","GO:0090231","regulation of spindle checkpoint","6/561",0.0103491061245097,6
+"AD","GO:0002573","myeloid leukocyte differentiation","20/561",0.0104526563802827,20
+"AD","GO:0007127","meiosis I","12/561",0.0107135386070027,12
+"AD","GO:0002283","neutrophil activation involved in immune response","5/561",0.0109031555502812,5
+"AD","GO:0032615","interleukin-12 production","8/561",0.0111571058290372,8
+"AD","GO:0032655","regulation of interleukin-12 production","8/561",0.0111571058290372,8
+"AD","GO:0002532","production of molecular mediator involved in inflammatory response","10/561",0.0113132063458121,10
+"AD","GO:0051249","regulation of lymphocyte activation","33/561",0.0119710021013515,33
+"AD","GO:0045785","positive regulation of cell adhesion","34/561",0.0120415289835263,34
+"AD","GO:0051384","response to glucocorticoid","13/561",0.0121626322392634,13
+"AD","GO:0002237","response to molecule of bacterial origin","25/561",0.0121626322392634,25
+"AD","GO:0016054","organic acid catabolic process","20/561",0.0127784206184416,20
+"AD","GO:0046395","carboxylic acid catabolic process","20/561",0.0127784206184416,20
+"AD","GO:0051781","positive regulation of cell division","10/561",0.0128217820269277,10
+"AD","GO:0070661","leukocyte proliferation","24/561",0.0128217820269277,24
+"AD","GO:0070665","positive regulation of leukocyte proliferation","14/561",0.0130735367648875,14
+"AD","GO:0046473","phosphatidic acid metabolic process","6/561",0.0130735367648875,6
+"AD","GO:0030099","myeloid cell differentiation","31/561",0.013159482441746,31
+"AD","GO:0034440","lipid oxidation","13/561",0.0132040295993584,13
+"AD","GO:0032943","mononuclear cell proliferation","22/561",0.0132178437849336,22
+"AD","GO:0019058","viral life cycle","25/561",0.013348209204764,25
+"AD","GO:0032465","regulation of cytokinesis","11/561",0.0139324766577811,11
+"AD","GO:0071674","mononuclear cell migration","17/561",0.0140730247562155,17
+"AD","GO:0006695","cholesterol biosynthetic process","9/561",0.0140730247562155,9
+"AD","GO:0150076","neuroinflammatory response","9/561",0.0140730247562155,9
+"AD","GO:1902653","secondary alcohol biosynthetic process","9/561",0.0140730247562155,9
+"AD","GO:0014841","skeletal muscle satellite cell proliferation","5/561",0.014464741723106,5
+"AD","GO:0034367","protein-containing complex remodeling","5/561",0.014464741723106,5
+"AD","GO:0090235","regulation of metaphase plate congression","5/561",0.014464741723106,5
+"AD","GO:0071396","cellular response to lipid","38/561",0.0148498939483421,38
+"AD","GO:1990845","adaptive thermogenesis","16/561",0.0148817138092419,16
+"AD","GO:0042119","neutrophil activation","7/561",0.0148817138092419,7
+"AD","GO:0070098","chemokine-mediated signaling pathway","8/561",0.0149141161573755,8
+"AD","GO:0062012","regulation of small molecule metabolic process","24/561",0.0156183860500913,24
+"AD","GO:1901992","positive regulation of mitotic cell cycle phase transition","12/561",0.0157149027505723,12
+"AD","GO:0045730","respiratory burst","6/561",0.0160032210404242,6
+"AD","GO:0060333","type II interferon-mediated signaling pathway","6/561",0.0160032210404242,6
+"AD","GO:0006790","sulfur compound metabolic process","24/561",0.0164480503946418,24
+"AD","GO:0002444","myeloid leukocyte mediated immunity","11/561",0.0170242289795642,11
+"AD","GO:0045833","negative regulation of lipid metabolic process","11/561",0.0170242289795642,11
+"AD","GO:0070374","positive regulation of ERK1 and ERK2 cascade","15/561",0.0170513817480539,15
+"AD","GO:0010565","regulation of cellular ketone metabolic process","13/561",0.0170513817480539,13
+"AD","GO:0071375","cellular response to peptide hormone stimulus","24/561",0.0172471750201131,24
+"AD","GO:0051640","organelle localization","42/561",0.0172716544896547,42
+"AD","GO:0046460","neutral lipid biosynthetic process","7/561",0.0176277519387882,7
+"AD","GO:0046463","acylglycerol biosynthetic process","7/561",0.0176277519387882,7
+"AD","GO:0045132","meiotic chromosome segregation","10/561",0.017735653838188,10
+"AD","GO:0031960","response to corticosteroid","14/561",0.0177718293390187,14
+"AD","GO:1902749","regulation of cell cycle G2/M phase transition","13/561",0.0185715898960688,13
+"AD","GO:0033559","unsaturated fatty acid metabolic process","11/561",0.0186221086662926,11
+"AD","GO:0072676","lymphocyte migration","11/561",0.0186221086662926,11
+"AD","GO:0030194","positive regulation of blood coagulation","5/561",0.018781642172985,5
+"AD","GO:1900048","positive regulation of hemostasis","5/561",0.018781642172985,5
+"AD","GO:1905952","regulation of lipid localization","14/561",0.0192760275553854,14
+"AD","GO:0000038","very long-chain fatty acid metabolic process","6/561",0.0193677475311616,6
+"AD","GO:0045923","positive regulation of fatty acid metabolic process","6/561",0.0193677475311616,6
+"AD","GO:0051984","positive regulation of chromosome segregation","6/561",0.0193677475311616,6
+"AD","GO:0032760","positive regulation of tumor necrosis factor production","10/561",0.0196489146799895,10
+"AD","GO:0070542","response to fatty acid","8/561",0.0196489146799895,8
+"AD","GO:0071887","leukocyte apoptotic process","13/561",0.0199008765458302,13
+"AD","GO:0070555","response to interleukin-1","11/561",0.0203475595239472,11
+"AD","GO:0051338","regulation of transferase activity","33/561",0.0203475595239472,33
+"AD","GO:0040017","positive regulation of locomotion","37/561",0.0203475595239472,37
+"AD","GO:0045840","positive regulation of mitotic nuclear division","7/561",0.0203475595239472,7
+"AD","GO:1905953","negative regulation of lipid localization","7/561",0.0203475595239472,7
+"AD","GO:0050670","regulation of lymphocyte proliferation","17/561",0.0203885521053624,17
+"AD","GO:0050863","regulation of T cell activation","26/561",0.0206761149291297,26
+"AD","GO:0051302","regulation of cell division","15/561",0.0206761149291297,15
+"AD","GO:0016042","lipid catabolic process","23/561",0.0206834568604499,23
+"AD","GO:0007292","female gamete generation","13/561",0.0213937204443893,13
+"AD","GO:0000165","MAPK cascade","43/561",0.0214960688721672,43
+"AD","GO:0033627","cell adhesion mediated by integrin","10/561",0.0214960688721672,10
+"AD","GO:0140013","meiotic nuclear division","14/561",0.0219350653228221,14
+"AD","GO:0015908","fatty acid transport","11/561",0.0219350653228221,11
+"AD","GO:0071346","cellular response to type II interferon","11/561",0.0219350653228221,11
+"AD","GO:0045576","mast cell activation","8/561",0.0219350653228221,8
+"AD","GO:1990868","response to chemokine","8/561",0.0219350653228221,8
+"AD","GO:1990869","cellular response to chemokine","8/561",0.0219350653228221,8
+"AD","GO:0016126","sterol biosynthetic process","9/561",0.0220953814905817,9
+"AD","GO:0002673","regulation of acute inflammatory response","6/561",0.022955187173862,6
+"AD","GO:0031641","regulation of myelination","7/561",0.0234060075166072,7
+"AD","GO:0032467","positive regulation of cytokinesis","7/561",0.0234060075166072,7
+"AD","GO:0036230","granulocyte activation","7/561",0.0234060075166072,7
+"AD","GO:0045089","positive regulation of innate immune response","26/561",0.0234060075166072,26
+"AD","GO:0032944","regulation of mononuclear cell proliferation","17/561",0.0244614923064599,17
+"AD","GO:1901654","response to ketone","17/561",0.0244614923064599,17
+"AD","GO:0030335","positive regulation of cell migration","35/561",0.0245472096631715,35
+"AD","GO:0043651","linoleic acid metabolic process","4/561",0.0245892716492823,4
+"AD","GO:0051987","positive regulation of attachment of spindle microtubules to kinetochore","4/561",0.0245892716492823,4
+"AD","GO:0030879","mammary gland development","13/561",0.0245892716492823,13
+"AD","GO:1901989","positive regulation of cell cycle phase transition","13/561",0.0245892716492823,13
+"AD","GO:0061844","antimicrobial humoral immune response mediated by antimicrobial peptide","9/561",0.0245953586269107,9
+"AD","GO:0002886","regulation of myeloid leukocyte mediated immunity","8/561",0.0247032696086235,8
+"AD","GO:2000147","positive regulation of cell motility","36/561",0.0247032696086235,36
+"AD","GO:0022407","regulation of cell-cell adhesion","32/561",0.0247518767088131,32
+"AD","GO:0002831","regulation of response to biotic stimulus","34/561",0.025364034885363,34
+"AD","GO:0046660","female sex differentiation","11/561",0.0261421871928294,11
+"AD","GO:0043408","regulation of MAPK cascade","37/561",0.0261720978364751,37
+"AD","GO:0010883","regulation of lipid storage","7/561",0.026898246536212,7
+"AD","GO:0002495","antigen processing and presentation of peptide antigen via MHC class II","6/561",0.026898246536212,6
+"AD","GO:0019432","triglyceride biosynthetic process","6/561",0.026898246536212,6
+"AD","GO:0032570","response to progesterone","6/561",0.026898246536212,6
+"AD","GO:0043277","apoptotic cell clearance","6/561",0.026898246536212,6
+"AD","GO:1905820","positive regulation of chromosome separation","6/561",0.026898246536212,6
+"AD","GO:0042306","regulation of protein import into nucleus","9/561",0.0273071421308264,9
+"AD","GO:0032869","cellular response to insulin stimulus","18/561",0.0277212295096022,18
+"AD","GO:0002443","leukocyte mediated immunity","24/561",0.0277853980096156,24
+"AD","GO:0051347","positive regulation of transferase activity","21/561",0.0277853980096156,21
+"AD","GO:0019915","lipid storage","10/561",0.0283710058451279,10
+"AD","GO:0036336","dendritic cell migration","5/561",0.0287777446407809,5
+"AD","GO:0060907","positive regulation of macrophage cytokine production","5/561",0.0287777446407809,5
+"AD","GO:0043410","positive regulation of MAPK cascade","28/561",0.0290896777772507,28
+"AD","GO:0043303","mast cell degranulation","7/561",0.0312405387043754,7
+"AD","GO:0070663","regulation of leukocyte proliferation","18/561",0.0314312349174365,18
+"AD","GO:0002683","negative regulation of immune system process","31/561",0.0315864025989336,31
+"AD","GO:0010639","negative regulation of organelle organization","26/561",0.0315864025989336,26
+"AD","GO:0002504","antigen processing and presentation of peptide or polysaccharide antigen via MHC class II","6/561",0.0322425220601956,6
+"AD","GO:0046456","icosanoid biosynthetic process","6/561",0.0322425220601956,6
+"AD","GO:0032870","cellular response to hormone stimulus","38/561",0.0324597743344374,38
+"AD","GO:0034341","response to type II interferon","12/561",0.0325317399440605,12
+"AD","GO:0002675","positive regulation of acute inflammatory response","4/561",0.0325317399440605,4
+"AD","GO:0007100","mitotic centrosome separation","4/561",0.0325317399440605,4
+"AD","GO:0030889","negative regulation of B cell proliferation","4/561",0.0325317399440605,4
+"AD","GO:0042308","negative regulation of protein import into nucleus","4/561",0.0325317399440605,4
+"AD","GO:0051767","nitric-oxide synthase biosynthetic process","4/561",0.0325317399440605,4
+"AD","GO:0051769","regulation of nitric-oxide synthase biosynthetic process","4/561",0.0325317399440605,4
+"AD","GO:0090232","positive regulation of spindle checkpoint","4/561",0.0325317399440605,4
+"AD","GO:0090267","positive regulation of mitotic cell cycle spindle assembly checkpoint","4/561",0.0325317399440605,4
+"AD","GO:1903490","positive regulation of mitotic cytokinesis","4/561",0.0325317399440605,4
+"AD","GO:0019882","antigen processing and presentation","11/561",0.0334195546758685,11
+"AD","GO:0032868","response to insulin","21/561",0.0337295639162586,21
+"AD","GO:0002448","mast cell mediated immunity","7/561",0.0350187336977869,7
+"AD","GO:0045931","positive regulation of mitotic cell cycle","13/561",0.0350187336977869,13
+"AD","GO:0006536","glutamate metabolic process","5/561",0.0350187336977869,5
+"AD","GO:0006654","phosphatidic acid biosynthetic process","5/561",0.0350187336977869,5
+"AD","GO:0060421","positive regulation of heart growth","5/561",0.0350187336977869,5
+"AD","GO:0090266","regulation of mitotic cell cycle spindle assembly checkpoint","5/561",0.0350187336977869,5
+"AD","GO:1903504","regulation of mitotic spindle checkpoint","5/561",0.0350187336977869,5
+"AD","GO:0018108","peptidyl-tyrosine phosphorylation","16/561",0.0350566080283648,16
+"AD","GO:0048545","response to steroid hormone","23/561",0.0350566080283648,23
+"AD","GO:0051235","maintenance of location","23/561",0.0350566080283648,23
+"AD","GO:0009636","response to toxic substance","18/561",0.0358171166925295,18
+"AD","GO:0033674","positive regulation of kinase activity","18/561",0.0358171166925295,18
+"AD","GO:0071900","regulation of protein serine/threonine kinase activity","18/561",0.0358171166925295,18
+"AD","GO:0032102","negative regulation of response to external stimulus","25/561",0.0358709657764695,25
+"AD","GO:0071347","cellular response to interleukin-1","9/561",0.0363440720063969,9
+"AD","GO:0001774","microglial cell activation","6/561",0.0363440720063969,6
+"AD","GO:0061081","positive regulation of myeloid leukocyte cytokine production involved in immune response","6/561",0.0363440720063969,6
+"AD","GO:0097242","amyloid-beta clearance","6/561",0.0363440720063969,6
+"AD","GO:0099172","presynapse organization","6/561",0.0363440720063969,6
+"AD","GO:0006690","icosanoid metabolic process","10/561",0.036352166467726,10
+"AD","GO:0071675","regulation of mononuclear cell migration","12/561",0.0365568004037247,12
+"AD","GO:0044242","cellular lipid catabolic process","18/561",0.0375110595713054,18
+"AD","GO:0002758","innate immune response-activating signaling pathway","21/561",0.0382406471251703,21
+"AD","GO:2000401","regulation of lymphocyte migration","8/561",0.0386106232635649,8
+"AD","GO:0018212","peptidyl-tyrosine modification","16/561",0.0388125761721222,16
+"AD","GO:0002279","mast cell activation involved in immune response","7/561",0.0388125761721222,7
+"AD","GO:0006739","NADP metabolic process","7/561",0.0388125761721222,7
+"AD","GO:0019369","arachidonate metabolic process","7/561",0.0388125761721222,7
+"AD","GO:2000404","regulation of T cell migration","7/561",0.0388125761721222,7
+"AD","GO:0045055","regulated exocytosis","17/561",0.0391887493134885,17
+"AD","GO:0045860","positive regulation of protein kinase activity","17/561",0.0391887493134885,17
+"AD","GO:1902807","negative regulation of cell cycle G1/S phase transition","9/561",0.0398164416320279,9
+"AD","GO:0000226","microtubule cytoskeleton organization","38/561",0.0398400300917271,38
+"AD","GO:0002697","regulation of immune effector process","24/561",0.040842443171653,24
+"AD","GO:0034368","protein-lipid complex remodeling","4/561",0.040842443171653,4
+"AD","GO:0034369","plasma lipoprotein particle remodeling","4/561",0.040842443171653,4
+"AD","GO:0035338","long-chain fatty-acyl-CoA biosynthetic process","4/561",0.040842443171653,4
+"AD","GO:0042953","lipoprotein transport","4/561",0.040842443171653,4
+"AD","GO:0044539","long-chain fatty acid import into cell","4/561",0.040842443171653,4
+"AD","GO:0045723","positive regulation of fatty acid biosynthetic process","4/561",0.040842443171653,4
+"AD","GO:0051299","centrosome separation","4/561",0.040842443171653,4
+"AD","GO:0071605","monocyte chemotactic protein-1 production","4/561",0.040842443171653,4
+"AD","GO:0071637","regulation of monocyte chemotactic protein-1 production","4/561",0.040842443171653,4
+"AD","GO:0072677","eosinophil migration","4/561",0.040842443171653,4
+"AD","GO:1902412","regulation of mitotic cytokinesis","4/561",0.040842443171653,4
+"AD","GO:0002833","positive regulation of response to biotic stimulus","26/561",0.040842443171653,26
+"AD","GO:0006968","cellular defense response","6/561",0.040842443171653,6
+"AD","GO:0032613","interleukin-10 production","6/561",0.040842443171653,6
+"AD","GO:0032653","regulation of interleukin-10 production","6/561",0.040842443171653,6
+"AD","GO:0042304","regulation of fatty acid biosynthetic process","6/561",0.040842443171653,6
+"AD","GO:1901616","organic hydroxy compound catabolic process","6/561",0.040842443171653,6
+"AD","GO:0015718","monocarboxylic acid transport","12/561",0.041011301027696,12
+"AD","GO:0006694","steroid biosynthetic process","15/561",0.0415012206218015,15
+"AD","GO:0010876","lipid localization","28/561",0.0417864464741313,28
+"AD","GO:0031401","positive regulation of protein modification process","36/561",0.0417874820289044,36
+"AD","GO:0044282","small molecule catabolic process","24/561",0.041929559645143,24
+"AD","GO:0051785","positive regulation of nuclear division","7/561",0.0425935369111914,7
+"AD","GO:0051897","positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction","15/561",0.0443513962002428,15
+"AD","GO:0002285","lymphocyte activation involved in immune response","17/561",0.0452282098332251,17
+"AD","GO:0030217","T cell differentiation","22/561",0.0453333524212718,22
+"AD","GO:0031640","killing of cells of another organism","8/561",0.0461508143991775,8
+"AD","GO:0032608","interferon-beta production","8/561",0.0461508143991775,8
+"AD","GO:0032648","regulation of interferon-beta production","8/561",0.0461508143991775,8
+"AD","GO:0050818","regulation of coagulation","8/561",0.0461508143991775,8
+"AD","GO:0141061","disruption of cell in another organism","8/561",0.0461508143991775,8
+"AD","GO:0018958","phenol-containing compound metabolic process","9/561",0.0467719058990329,9
+"AD","GO:0071677","positive regulation of mononuclear cell migration","9/561",0.0467719058990329,9
+"AD","GO:0046631","alpha-beta T cell activation","15/561",0.0467719058990329,15
+"AD","GO:0050671","positive regulation of lymphocyte proliferation","11/561",0.047159750916602,11
+"AD","GO:0043154","negative regulation of cysteine-type endopeptidase activity involved in apoptotic process","7/561",0.0482593138693816,7
+"AD","GO:0050918","positive chemotaxis","7/561",0.0482593138693816,7
+"AD","GO:0033198","response to ATP","5/561",0.0483640752907079,5
+"AD","GO:0050869","negative regulation of B cell activation","5/561",0.0483640752907079,5
+"AD","GO:0030316","osteoclast differentiation","10/561",0.049846024659472,10
+"AD","GO:0030100","regulation of endocytosis","20/561",0.0499197023307361,20
+"HS","GO:0006954","inflammatory response","71/542",2.41188299029867e-10,71
+"HS","GO:0007159","leukocyte cell-cell adhesion","46/542",2.96686989976885e-09,46
+"HS","GO:0022407","regulation of cell-cell adhesion","52/542",2.96686989976885e-09,52
+"HS","GO:0050778","positive regulation of immune response","63/542",1.41690198749507e-08,63
+"HS","GO:0050727","regulation of inflammatory response","41/542",1.41690198749507e-08,41
+"HS","GO:0002252","immune effector process","55/542",3.68642391815937e-08,55
+"HS","GO:0042110","T cell activation","54/542",5.83387079217214e-08,54
+"HS","GO:0002764","immune response-regulating signaling pathway","50/542",6.5159436300536e-08,50
+"HS","GO:1903037","regulation of leukocyte cell-cell adhesion","40/542",1.20565257445629e-07,40
+"HS","GO:0002768","immune response-regulating cell surface receptor signaling pathway","36/542",3.51706404647135e-07,36
+"HS","GO:0050900","leukocyte migration","37/542",3.51706404647135e-07,37
+"HS","GO:0002250","adaptive immune response","43/542",3.65770573459379e-07,43
+"HS","GO:0001817","regulation of cytokine production","60/542",4.41931145777763e-07,60
+"HS","GO:0001816","cytokine production","60/542",4.4594418433917e-07,60
+"HS","GO:0002253","activation of immune response","48/542",9.24554034884757e-07,48
+"HS","GO:0001819","positive regulation of cytokine production","43/542",1.2586526641982e-06,43
+"HS","GO:0002429","immune response-activating cell surface receptor signaling pathway","33/542",1.2586526641982e-06,33
+"HS","GO:0006935","chemotaxis","39/542",1.2586526641982e-06,39
+"HS","GO:0042330","taxis","39/542",1.2586526641982e-06,39
+"HS","GO:0022409","positive regulation of cell-cell adhesion","35/542",1.33575441880521e-06,35
+"HS","GO:0050865","regulation of cell activation","51/542",1.52118232860684e-06,51
+"HS","GO:0030595","leukocyte chemotaxis","25/542",2.67512339794224e-06,25
+"HS","GO:0002697","regulation of immune effector process","36/542",3.00634100909054e-06,36
+"HS","GO:0070661","leukocyte proliferation","33/542",4.48847576430746e-06,33
+"HS","GO:0002757","immune response-activating signaling pathway","43/542",4.5169832564469e-06,43
+"HS","GO:0060326","cell chemotaxis","29/542",5.03155525866505e-06,29
+"HS","GO:0032102","negative regulation of response to external stimulus","36/542",7.09483298862523e-06,36
+"HS","GO:0046631","alpha-beta T cell activation","24/542",7.94306056435258e-06,24
+"HS","GO:0097530","granulocyte migration","19/542",8.14822838468399e-06,19
+"HS","GO:0035987","endodermal cell differentiation","12/542",1.36699617083398e-05,12
+"HS","GO:0009617","response to bacterium","46/542",1.36699617083398e-05,46
+"HS","GO:0045785","positive regulation of cell adhesion","43/542",1.53932592239581e-05,43
+"HS","GO:0050863","regulation of T cell activation","35/542",1.60784763773962e-05,35
+"HS","GO:0031348","negative regulation of defense response","28/542",1.60784763773962e-05,28
+"HS","GO:0050728","negative regulation of inflammatory response","21/542",1.60784763773962e-05,21
+"HS","GO:0006959","humoral immune response","23/542",1.64335978336952e-05,23
+"HS","GO:1903131","mononuclear cell differentiation","44/542",1.64739276765334e-05,44
+"HS","GO:0002694","regulation of leukocyte activation","45/542",1.65176608720039e-05,45
+"HS","GO:0097529","myeloid leukocyte migration","23/542",2.8386848886026e-05,23
+"HS","GO:0001906","cell killing","22/542",2.8386848886026e-05,22
+"HS","GO:0071621","granulocyte chemotaxis","16/542",3.01933576913718e-05,16
+"HS","GO:0008544","epidermis development","36/542",3.2374275377063e-05,36
+"HS","GO:0030098","lymphocyte differentiation","38/542",3.67576798613251e-05,38
+"HS","GO:0046651","lymphocyte proliferation","28/542",3.94403699205421e-05,28
+"HS","GO:0002521","leukocyte differentiation","48/542",4.5797979319113e-05,48
+"HS","GO:0002685","regulation of leukocyte migration","24/542",4.6829019416885e-05,24
+"HS","GO:1903038","negative regulation of leukocyte cell-cell adhesion","18/542",4.77881873779467e-05,18
+"HS","GO:1990266","neutrophil migration","15/542",4.77881873779467e-05,15
+"HS","GO:0043588","skin development","32/542",4.86451740951239e-05,32
+"HS","GO:0001706","endoderm formation","12/542",4.86451740951239e-05,12
+"HS","GO:1903039","positive regulation of leukocyte cell-cell adhesion","28/542",4.86451740951239e-05,28
+"HS","GO:0009611","response to wounding","44/542",4.99300249929767e-05,44
+"HS","GO:0030593","neutrophil chemotaxis","13/542",4.99300249929767e-05,13
+"HS","GO:0032943","mononuclear cell proliferation","28/542",5.79993672879534e-05,28
+"HS","GO:0031640","killing of cells of another organism","13/542",6.25345181671668e-05,13
+"HS","GO:0141061","disruption of cell in another organism","13/542",6.25345181671668e-05,13
+"HS","GO:0050851","antigen receptor-mediated signaling pathway","22/542",6.75082659885698e-05,22
+"HS","GO:0071706","tumor necrosis factor superfamily cytokine production","19/542",7.05402724124229e-05,19
+"HS","GO:1903555","regulation of tumor necrosis factor superfamily cytokine production","19/542",7.05402724124229e-05,19
+"HS","GO:0141060","disruption of anatomical structure in another organism","13/542",9.97283362012647e-05,13
+"HS","GO:0022408","negative regulation of cell-cell adhesion","22/542",0.000108590079002246,22
+"HS","GO:0050866","negative regulation of cell activation","22/542",0.000108590079002246,22
+"HS","GO:0030855","epithelial cell differentiation","50/542",0.000108590079002246,50
+"HS","GO:0002443","leukocyte mediated immunity","31/542",0.000113879117484647,31
+"HS","GO:0002366","leukocyte activation involved in immune response","29/542",0.000121326991910101,29
+"HS","GO:0051249","regulation of lymphocyte activation","39/542",0.000125620275123368,39
+"HS","GO:0050868","negative regulation of T cell activation","16/542",0.000150591523698976,16
+"HS","GO:0002263","cell activation involved in immune response","29/542",0.000157840042413174,29
+"HS","GO:0032103","positive regulation of response to external stimulus","45/542",0.000188981195074162,45
+"HS","GO:0034113","heterotypic cell-cell adhesion","11/542",0.000202490085807736,11
+"HS","GO:0002523","leukocyte migration involved in inflammatory response","7/542",0.00023080694877065,7
+"HS","GO:0030335","positive regulation of cell migration","42/542",0.000240723639295839,42
+"HS","GO:0030217","T cell differentiation","29/542",0.000241760763453105,29
+"HS","GO:0002699","positive regulation of immune effector process","24/542",0.000251618314723659,24
+"HS","GO:0051250","negative regulation of lymphocyte activation","18/542",0.00032694716704074,18
+"HS","GO:0042098","T cell proliferation","21/542",0.000329185526609779,21
+"HS","GO:0002703","regulation of leukocyte mediated immunity","22/542",0.000366278387515952,22
+"HS","GO:0001704","formation of primary germ layer","16/542",0.000378691399879398,16
+"HS","GO:0030198","extracellular matrix organization","25/542",0.000421229326495105,25
+"HS","GO:0043062","extracellular structure organization","25/542",0.000421229326495105,25
+"HS","GO:0002237","response to molecule of bacterial origin","29/542",0.000421229326495105,29
+"HS","GO:0070663","regulation of leukocyte proliferation","23/542",0.000421229326495105,23
+"HS","GO:0006805","xenobiotic metabolic process","14/542",0.000446054688735686,14
+"HS","GO:0045229","external encapsulating structure organization","25/542",0.000450991760395878,25
+"HS","GO:0042113","B cell activation","26/542",0.000453865542184153,26
+"HS","GO:0032689","negative regulation of type II interferon production","8/542",0.00045623567818083,8
+"HS","GO:0050858","negative regulation of antigen receptor-mediated signaling pathway","8/542",0.00045623567818083,8
+"HS","GO:0002695","negative regulation of leukocyte activation","19/542",0.000460272272907102,19
+"HS","GO:0050670","regulation of lymphocyte proliferation","21/542",0.000464739605764432,21
+"HS","GO:0002704","negative regulation of leukocyte mediated immunity","10/542",0.000489457064534415,10
+"HS","GO:2000147","positive regulation of cell motility","42/542",0.000497680768840709,42
+"HS","GO:0032640","tumor necrosis factor production","17/542",0.000505088403017118,17
+"HS","GO:0032680","regulation of tumor necrosis factor production","17/542",0.000505088403017118,17
+"HS","GO:0032753","positive regulation of interleukin-4 production","7/542",0.000526335734707997,7
+"HS","GO:0002683","negative regulation of immune system process","37/542",0.000542911705361631,37
+"HS","GO:0032496","response to lipopolysaccharide","28/542",0.000578661609846953,28
+"HS","GO:0032944","regulation of mononuclear cell proliferation","21/542",0.000612165950140278,21
+"HS","GO:0002460","adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains","26/542",0.000706688861299516,26
+"HS","GO:0050854","regulation of antigen receptor-mediated signaling pathway","11/542",0.000706688861299516,11
+"HS","GO:1903557","positive regulation of tumor necrosis factor superfamily cytokine production","13/542",0.000706688861299516,13
+"HS","GO:0040017","positive regulation of locomotion","42/542",0.000706688861299516,42
+"HS","GO:0007162","negative regulation of cell adhesion","26/542",0.000741951761870254,26
+"HS","GO:0002449","lymphocyte mediated immunity","24/542",0.000741951761870254,24
+"HS","GO:0042129","regulation of T cell proliferation","17/542",0.00080978580088207,17
+"HS","GO:0002700","regulation of production of molecular mediator of immune response","19/542",0.000956995710959794,19
+"HS","GO:0002706","regulation of lymphocyte mediated immunity","17/542",0.00104961687248798,17
+"HS","GO:0002687","positive regulation of leukocyte migration","16/542",0.00112902876401587,16
+"HS","GO:0045066","regulatory T cell differentiation","7/542",0.00115443525520747,7
+"HS","GO:0071466","cellular response to xenobiotic stimulus","17/542",0.00116947982865871,17
+"HS","GO:1902105","regulation of leukocyte differentiation","27/542",0.00127061960207532,27
+"HS","GO:2000345","regulation of hepatocyte proliferation","6/542",0.00133679794594826,6
+"HS","GO:1902624","positive regulation of neutrophil migration","8/542",0.00152841509731592,8
+"HS","GO:0002274","myeloid leukocyte activation","20/542",0.00152841509731592,20
+"HS","GO:0071219","cellular response to molecule of bacterial origin","20/542",0.00152841509731592,20
+"HS","GO:0002715","regulation of natural killer cell mediated immunity","7/542",0.00161983589165619,7
+"HS","GO:1904994","regulation of leukocyte adhesion to vascular endothelial cell","7/542",0.00161983589165619,7
+"HS","GO:0007492","endoderm development","12/542",0.00169388252358177,12
+"HS","GO:0050729","positive regulation of inflammatory response","15/542",0.00169388252358177,15
+"HS","GO:0002688","regulation of leukocyte chemotaxis","14/542",0.00175865381937915,14
+"HS","GO:0019730","antimicrobial humoral response","13/542",0.00175865381937915,13
+"HS","GO:0042060","wound healing","32/542",0.00180398306608283,32
+"HS","GO:0050867","positive regulation of cell activation","29/542",0.00181245408777122,29
+"HS","GO:0002285","lymphocyte activation involved in immune response","21/542",0.00181951991693537,21
+"HS","GO:0035710","CD4-positive, alpha-beta T cell activation","15/542",0.00186280942859926,15
+"HS","GO:1902622","regulation of neutrophil migration","9/542",0.00189630492796264,9
+"HS","GO:0042100","B cell proliferation","12/542",0.00190769390191486,12
+"HS","GO:0048729","tissue morphogenesis","41/542",0.00200619040184822,41
+"HS","GO:0061844","antimicrobial humoral immune response mediated by antimicrobial peptide","11/542",0.00203899151786718,11
+"HS","GO:0002690","positive regulation of leukocyte chemotaxis","12/542",0.00223160078376684,12
+"HS","GO:0002696","positive regulation of leukocyte activation","28/542",0.00230390796380182,28
+"HS","GO:0002702","positive regulation of production of molecular mediator of immune response","15/542",0.00232207143077828,15
+"HS","GO:0071622","regulation of granulocyte chemotaxis","9/542",0.00232207143077828,9
+"HS","GO:0002707","negative regulation of lymphocyte mediated immunity","8/542",0.00239504354521228,8
+"HS","GO:0071222","cellular response to lipopolysaccharide","19/542",0.00239504354521228,19
+"HS","GO:0002009","morphogenesis of an epithelium","36/542",0.00244338971890984,36
+"HS","GO:0009913","epidermal cell differentiation","22/542",0.00245018151125155,22
+"HS","GO:0002367","cytokine production involved in immune response","14/542",0.00276693425195605,14
+"HS","GO:0002718","regulation of cytokine production involved in immune response","14/542",0.00276693425195605,14
+"HS","GO:0043299","leukocyte degranulation","11/542",0.00276693425195605,11
+"HS","GO:0032633","interleukin-4 production","7/542",0.00276693425195605,7
+"HS","GO:0032673","regulation of interleukin-4 production","7/542",0.00276693425195605,7
+"HS","GO:0045730","respiratory burst","7/542",0.00276693425195605,7
+"HS","GO:0007369","gastrulation","18/542",0.00295323089981935,18
+"HS","GO:0045580","regulation of T cell differentiation","18/542",0.00295323089981935,18
+"HS","GO:0070486","leukocyte aggregation","5/542",0.00299318066057787,5
+"HS","GO:0050870","positive regulation of T cell activation","22/542",0.00301918893721419,22
+"HS","GO:0002698","negative regulation of immune effector process","13/542",0.00320519969087855,13
+"HS","GO:0032609","type II interferon production","12/542",0.00323471916137817,12
+"HS","GO:0032649","regulation of type II interferon production","12/542",0.00323471916137817,12
+"HS","GO:0045619","regulation of lymphocyte differentiation","20/542",0.00329649614022374,20
+"HS","GO:0032623","interleukin-2 production","10/542",0.00329649614022374,10
+"HS","GO:0032663","regulation of interleukin-2 production","10/542",0.00329649614022374,10
+"HS","GO:0001889","liver development","16/542",0.00339142585406769,16
+"HS","GO:0031349","positive regulation of defense response","34/542",0.00362097720051252,34
+"HS","GO:0061756","leukocyte adhesion to vascular endothelial cell","8/542",0.00362097720051252,8
+"HS","GO:0031099","regeneration","18/542",0.0037772749872753,18
+"HS","GO:0061008","hepaticobiliary system development","16/542",0.00417263616061617,16
+"HS","GO:0001818","negative regulation of cytokine production","23/542",0.00417263616061617,23
+"HS","GO:0046634","regulation of alpha-beta T cell activation","13/542",0.00461362744823943,13
+"HS","GO:0002291","T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell","5/542",0.00471196688271507,5
+"HS","GO:0070230","positive regulation of lymphocyte apoptotic process","5/542",0.00471196688271507,5
+"HS","GO:0050864","regulation of B cell activation","14/542",0.00471196688271507,14
+"HS","GO:0050853","B cell receptor signaling pathway","9/542",0.00474994512885067,9
+"HS","GO:0030216","keratinocyte differentiation","17/542",0.00474994512885067,17
+"HS","GO:1903034","regulation of response to wounding","17/542",0.00474994512885067,17
+"HS","GO:0016485","protein processing","22/542",0.00493776930444146,22
+"HS","GO:0022612","gland morphogenesis","14/542",0.00520843525850629,14
+"HS","GO:0045589","regulation of regulatory T cell differentiation","6/542",0.0052486297174378,6
+"HS","GO:0032760","positive regulation of tumor necrosis factor production","11/542",0.00551899629508942,11
+"HS","GO:0045071","negative regulation of viral genome replication","9/542",0.0056631652293541,9
+"HS","GO:0002286","T cell activation involved in immune response","14/542",0.00578255949855178,14
+"HS","GO:0090022","regulation of neutrophil chemotaxis","7/542",0.00579891571533636,7
+"HS","GO:1903670","regulation of sprouting angiogenesis","7/542",0.00579891571533636,7
+"HS","GO:1905521","regulation of macrophage migration","7/542",0.00579891571533636,7
+"HS","GO:0002831","regulation of response to biotic stimulus","36/542",0.00584214916900154,36
+"HS","GO:0014902","myotube differentiation","13/542",0.0063215418766206,13
+"HS","GO:0031424","keratinization","9/542",0.0066546478051977,9
+"HS","GO:0002639","positive regulation of immunoglobulin production","8/542",0.0066546478051977,8
+"HS","GO:0001911","negative regulation of leukocyte mediated cytotoxicity","5/542",0.00681251451358441,5
+"HS","GO:0031342","negative regulation of cell killing","5/542",0.00681251451358441,5
+"HS","GO:0072677","eosinophil migration","5/542",0.00681251451358441,5
+"HS","GO:0042269","regulation of natural killer cell mediated cytotoxicity","6/542",0.00681251451358441,6
+"HS","GO:0072574","hepatocyte proliferation","6/542",0.00681251451358441,6
+"HS","GO:0072575","epithelial cell proliferation involved in liver morphogenesis","6/542",0.00681251451358441,6
+"HS","GO:0090023","positive regulation of neutrophil chemotaxis","6/542",0.00681251451358441,6
+"HS","GO:0031341","regulation of cell killing","10/542",0.00692394177766236,10
+"HS","GO:0002440","production of molecular mediator of immune response","19/542",0.00696222283544143,19
+"HS","GO:0048732","gland development","31/542",0.00719909823602915,31
+"HS","GO:0051046","regulation of secretion","35/542",0.00720544769835011,35
+"HS","GO:0050852","T cell receptor signaling pathway","15/542",0.00724665841966029,15
+"HS","GO:0043367","CD4-positive, alpha-beta T cell differentiation","12/542",0.00736513326758423,12
+"HS","GO:0045055","regulated exocytosis","19/542",0.00742901766853768,19
+"HS","GO:0050856","regulation of T cell receptor signaling pathway","8/542",0.00766867964531313,8
+"HS","GO:1905517","macrophage migration","8/542",0.00766867964531313,8
+"HS","GO:0071216","cellular response to biotic stimulus","20/542",0.00770139083342646,20
+"HS","GO:1903706","regulation of hemopoiesis","29/542",0.00857912993094497,29
+"HS","GO:0045088","regulation of innate immune response","31/542",0.00860429213222341,31
+"HS","GO:0006801","superoxide metabolic process","9/542",0.00860429213222341,9
+"HS","GO:0030888","regulation of B cell proliferation","9/542",0.00860429213222341,9
+"HS","GO:0032963","collagen metabolic process","11/542",0.00860429213222341,11
+"HS","GO:0032703","negative regulation of interleukin-2 production","6/542",0.00860429213222341,6
+"HS","GO:0032733","positive regulation of interleukin-10 production","6/542",0.00860429213222341,6
+"HS","GO:0071624","positive regulation of granulocyte chemotaxis","6/542",0.00860429213222341,6
+"HS","GO:0072576","liver morphogenesis","6/542",0.00860429213222341,6
+"HS","GO:0002437","inflammatory response to antigenic stimulus","10/542",0.00881823012251885,10
+"HS","GO:0046632","alpha-beta T cell differentiation","14/542",0.00881823012251885,14
+"HS","GO:0032615","interleukin-12 production","8/542",0.00887603192823262,8
+"HS","GO:0032655","regulation of interleukin-12 production","8/542",0.00887603192823262,8
+"HS","GO:0034109","homotypic cell-cell adhesion","12/542",0.00887603192823262,12
+"HS","GO:0050878","regulation of body fluid levels","26/542",0.00957813747300807,26
+"HS","GO:0001910","regulation of leukocyte mediated cytotoxicity","9/542",0.0099320973359509,9
+"HS","GO:0071674","mononuclear cell migration","17/542",0.010192073784651,17
+"HS","GO:0032613","interleukin-10 production","7/542",0.0103452092569679,7
+"HS","GO:0032653","regulation of interleukin-10 production","7/542",0.0103452092569679,7
+"HS","GO:0034110","regulation of homotypic cell-cell adhesion","7/542",0.0103452092569679,7
+"HS","GO:0042554","superoxide anion generation","7/542",0.0103452092569679,7
+"HS","GO:0022603","regulation of anatomical structure morphogenesis","46/542",0.0104550186078838,46
+"HS","GO:1903035","negative regulation of response to wounding","11/542",0.0107573858480398,11
+"HS","GO:0030574","collagen catabolic process","6/542",0.0109114508272528,6
+"HS","GO:0045669","positive regulation of osteoblast differentiation","9/542",0.0113896084346938,9
+"HS","GO:0045069","regulation of viral genome replication","11/542",0.0122183942450823,11
+"HS","GO:0001909","leukocyte mediated cytotoxicity","12/542",0.0123856954558673,12
+"HS","GO:1903556","negative regulation of tumor necrosis factor superfamily cytokine production","8/542",0.0125278756131368,8
+"HS","GO:0033631","cell-cell adhesion mediated by integrin","5/542",0.0126365710851584,5
+"HS","GO:0043032","positive regulation of macrophage activation","5/542",0.0126365710851584,5
+"HS","GO:0052652","cyclic purine nucleotide metabolic process","5/542",0.0126365710851584,5
+"HS","GO:0061045","negative regulation of wound healing","9/542",0.0131235962625864,9
+"HS","GO:0071675","regulation of mononuclear cell migration","13/542",0.0132498650296524,13
+"HS","GO:0002719","negative regulation of cytokine production involved in immune response","6/542",0.0138178065612471,6
+"HS","GO:0010955","negative regulation of protein processing","6/542",0.0138178065612471,6
+"HS","GO:0051251","positive regulation of lymphocyte activation","24/542",0.0138178065612471,24
+"HS","GO:0002822","regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains","16/542",0.0138178065612471,16
+"HS","GO:0019221","cytokine-mediated signaling pathway","32/542",0.0144561881812051,32
+"HS","GO:0002709","regulation of T cell mediated immunity","10/542",0.0144561881812051,10
+"HS","GO:1901342","regulation of vasculature development","20/542",0.0144561881812051,20
+"HS","GO:0002819","regulation of adaptive immune response","17/542",0.0144792083571642,17
+"HS","GO:0001568","blood vessel development","40/542",0.0146060044958545,40
+"HS","GO:0030183","B cell differentiation","14/542",0.0148269505774482,14
+"HS","GO:0030501","positive regulation of bone mineralization","7/542",0.014838024572778,7
+"HS","GO:0050832","defense response to fungus","7/542",0.014838024572778,7
+"HS","GO:0050921","positive regulation of chemotaxis","13/542",0.0157322758492994,13
+"HS","GO:0071677","positive regulation of mononuclear cell migration","10/542",0.0161865431407305,10
+"HS","GO:0002710","negative regulation of T cell mediated immunity","5/542",0.0165540086793507,5
+"HS","GO:0009187","cyclic nucleotide metabolic process","5/542",0.0165540086793507,5
+"HS","GO:0072111","cell proliferation involved in kidney development","5/542",0.0165540086793507,5
+"HS","GO:1904996","positive regulation of leukocyte adhesion to vascular endothelial cell","5/542",0.0165540086793507,5
+"HS","GO:0002228","natural killer cell mediated immunity","8/542",0.0165540086793507,8
+"HS","GO:0070232","regulation of T cell apoptotic process","7/542",0.0178360487069849,7
+"HS","GO:0033627","cell adhesion mediated by integrin","10/542",0.0181401755480821,10
+"HS","GO:0048525","negative regulation of viral process","11/542",0.0183944722186433,11
+"HS","GO:0051897","positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction","16/542",0.0184450561512464,16
+"HS","GO:0050672","negative regulation of lymphocyte proliferation","9/542",0.0192540048409464,9
+"HS","GO:0042130","negative regulation of T cell proliferation","8/542",0.0193501033910829,8
+"HS","GO:0001944","vasculature development","41/542",0.0203371230569154,41
+"HS","GO:0045861","negative regulation of proteolysis","20/542",0.0207677276639601,20
+"HS","GO:0007520","myoblast fusion","6/542",0.0207677276639601,6
+"HS","GO:0019886","antigen processing and presentation of exogenous peptide antigen via MHC class II","6/542",0.0207677276639601,6
+"HS","GO:0097421","liver regeneration","6/542",0.0207677276639601,6
+"HS","GO:1903318","negative regulation of protein maturation","6/542",0.0207677276639601,6
+"HS","GO:0006749","glutathione metabolic process","7/542",0.0207677276639601,7
+"HS","GO:0030195","negative regulation of blood coagulation","7/542",0.0207677276639601,7
+"HS","GO:1900047","negative regulation of hemostasis","7/542",0.0207677276639601,7
+"HS","GO:0032945","negative regulation of mononuclear cell proliferation","9/542",0.0214079698107808,9
+"HS","GO:0050860","negative regulation of T cell receptor signaling pathway","5/542",0.0214079698107808,5
+"HS","GO:2000108","positive regulation of leukocyte apoptotic process","5/542",0.0214079698107808,5
+"HS","GO:0002011","morphogenesis of an epithelial sheet","8/542",0.0218132378112527,8
+"HS","GO:1905330","regulation of morphogenesis of an epithelium","8/542",0.0218132378112527,8
+"HS","GO:0034116","positive regulation of heterotypic cell-cell adhesion","4/542",0.0230805007043296,4
+"HS","GO:0043301","negative regulation of leukocyte degranulation","4/542",0.0230805007043296,4
+"HS","GO:0072074","kidney mesenchyme development","4/542",0.0230805007043296,4
+"HS","GO:2001185","regulation of CD8-positive, alpha-beta T cell activation","4/542",0.0230805007043296,4
+"HS","GO:0032635","interleukin-6 production","13/542",0.0236743669738188,13
+"HS","GO:0032675","regulation of interleukin-6 production","13/542",0.0236743669738188,13
+"HS","GO:0070169","positive regulation of biomineral tissue development","7/542",0.0240951576344155,7
+"HS","GO:0071396","cellular response to lipid","36/542",0.0240951576344155,36
+"HS","GO:0007229","integrin-mediated signaling pathway","11/542",0.0240951576344155,11
+"HS","GO:0002495","antigen processing and presentation of peptide antigen via MHC class II","6/542",0.0246312727339479,6
+"HS","GO:0010463","mesenchymal cell proliferation","6/542",0.0246312727339479,6
+"HS","GO:0031638","zymogen activation","8/542",0.0246849158281707,8
+"HS","GO:0045582","positive regulation of T cell differentiation","12/542",0.0251087509758354,12
+"HS","GO:0045765","regulation of angiogenesis","19/542",0.0256625860417617,19
+"HS","GO:0033002","muscle cell proliferation","17/542",0.0257499011361894,17
+"HS","GO:0002526","acute inflammatory response","9/542",0.0267733909837256,9
+"HS","GO:0034114","regulation of heterotypic cell-cell adhesion","5/542",0.027005297838885,5
+"HS","GO:0045621","positive regulation of lymphocyte differentiation","13/542",0.0277121380273172,13
+"HS","GO:0045109","intermediate filament organization","7/542",0.027841192659352,7
+"HS","GO:0045778","positive regulation of ossification","7/542",0.027841192659352,7
+"HS","GO:0050819","negative regulation of coagulation","7/542",0.027841192659352,7
+"HS","GO:0002504","antigen processing and presentation of peptide or polysaccharide antigen via MHC class II","6/542",0.0297180582525549,6
+"HS","GO:0045089","positive regulation of innate immune response","25/542",0.0300405664020596,25
+"HS","GO:0001503","ossification","26/542",0.0312962276123353,26
+"HS","GO:0009410","response to xenobiotic stimulus","26/542",0.0312962276123353,26
+"HS","GO:0002456","T cell mediated immunity","11/542",0.0317408167512755,11
+"HS","GO:0034112","positive regulation of homotypic cell-cell adhesion","4/542",0.0317408167512755,4
+"HS","GO:1901722","regulation of cell proliferation involved in kidney development","4/542",0.0317408167512755,4
+"HS","GO:1901739","regulation of myoblast fusion","4/542",0.0317408167512755,4
+"HS","GO:0002637","regulation of immunoglobulin production","8/542",0.0318838567293111,8
+"HS","GO:0043300","regulation of leukocyte degranulation","7/542",0.032272277658094,7
+"HS","GO:0002833","positive regulation of response to biotic stimulus","26/542",0.0322737547726809,26
+"HS","GO:0002275","myeloid cell activation involved in immune response","10/542",0.0329447505453439,10
+"HS","GO:0050764","regulation of phagocytosis","9/542",0.0330773943195287,9
+"HS","GO:0070664","negative regulation of leukocyte proliferation","9/542",0.0330773943195287,9
+"HS","GO:0050920","regulation of chemotaxis","15/542",0.0347604823906653,15
+"HS","GO:0002347","response to tumor cell","6/542",0.034978855432727,6
+"HS","GO:0061041","regulation of wound healing","12/542",0.034978855432727,12
+"HS","GO:0070613","regulation of protein processing","8/542",0.0360033159852557,8
+"HS","GO:0001890","placenta development","14/542",0.0361681595557812,14
+"HS","GO:2000106","regulation of leukocyte apoptotic process","10/542",0.0361681595557812,10
+"HS","GO:0051146","striated muscle cell differentiation","20/542",0.0365693519216254,20
+"HS","GO:0002720","positive regulation of cytokine production involved in immune response","9/542",0.0367005368785141,9
+"HS","GO:0032720","negative regulation of tumor necrosis factor production","7/542",0.0367005368785141,7
+"HS","GO:0043030","regulation of macrophage activation","7/542",0.0367005368785141,7
+"HS","GO:0071887","leukocyte apoptotic process","12/542",0.0376477694605066,12
+"HS","GO:0008285","negative regulation of cell population proliferation","39/542",0.0394950404340362,39
+"HS","GO:0002260","lymphocyte homeostasis","9/542",0.0405159166744482,9
+"HS","GO:0019079","viral genome replication","12/542",0.0405159166744482,12
+"HS","GO:0002701","negative regulation of production of molecular mediator of immune response","6/542",0.0405159166744482,6
+"HS","GO:0006968","cellular defense response","6/542",0.0405159166744482,6
+"HS","GO:0032715","negative regulation of interleukin-6 production","6/542",0.0405159166744482,6
+"HS","GO:0044319","wound healing, spreading of cells","6/542",0.0405159166744482,6
+"HS","GO:0090504","epiboly","6/542",0.0405159166744482,6
+"HS","GO:0090505","epiboly involved in wound healing","6/542",0.0405159166744482,6
+"HS","GO:0010755","regulation of plasminogen activation","4/542",0.041326091604002,4
+"HS","GO:0034368","protein-lipid complex remodeling","4/542",0.041326091604002,4
+"HS","GO:0034369","plasma lipoprotein particle remodeling","4/542",0.041326091604002,4
+"HS","GO:0036037","CD8-positive, alpha-beta T cell activation","4/542",0.041326091604002,4
+"HS","GO:0030199","collagen fibril organization","7/542",0.0414071935450134,7
+"HS","GO:1903900","regulation of viral life cycle","13/542",0.042227991584552,13
+"HS","GO:0048598","embryonic morphogenesis","34/542",0.0423432972211237,34
+"HS","GO:0031100","animal organ regeneration","8/542",0.0444065434780801,8
+"HS","GO:0070228","regulation of lymphocyte apoptotic process","8/542",0.0444065434780801,8
+"HS","GO:0052548","regulation of endopeptidase activity","18/542",0.0446521610734462,18
+"HS","GO:1902106","negative regulation of leukocyte differentiation","10/542",0.0471161154013256,10
+"HS","GO:0009620","response to fungus","7/542",0.0472049212422793,7
+"HS","GO:0019884","antigen processing and presentation of exogenous antigen","7/542",0.0472049212422793,7
+"HS","GO:0033628","regulation of cell adhesion mediated by integrin","7/542",0.0472049212422793,7
+"HS","GO:0042267","natural killer cell mediated cytotoxicity","7/542",0.0472049212422793,7
+"HS","GO:0007435","salivary gland morphogenesis","5/542",0.048992310065795,5
+"HS","GO:0010464","regulation of mesenchymal cell proliferation","5/542",0.048992310065795,5
+"HS","GO:0035456","response to interferon-beta","5/542",0.048992310065795,5
+"HS","GO:0050869","negative regulation of B cell activation","5/542",0.048992310065795,5
+"HS","GO:0062208","positive regulation of pattern recognition receptor signaling pathway","8/542",0.0493085247257261,8
+"HS","GO:0043068","positive regulation of programmed cell death","35/542",0.0496582200173353,35
+"HS","GO:0009615","response to virus","26/542",0.0496582200173353,26
+"VL","GO:0022613","ribonucleoprotein complex biogenesis","52/541",4.31627387684264e-07,52
+"VL","GO:0051301","cell division","53/541",4.42815500692812e-05,53
+"VL","GO:0008380","RNA splicing","43/541",0.000112099344651732,43
+"VL","GO:0051276","chromosome organization","53/541",0.000112099344651732,53
+"VL","GO:0042254","ribosome biogenesis","35/541",0.000120011995931718,35
+"VL","GO:0051383","kinetochore organization","8/541",0.000124894902529449,8
+"VL","GO:0007059","chromosome segregation","40/541",0.000124894902529449,40
+"VL","GO:0006412","translation","55/541",0.000124894902529449,55
+"VL","GO:0000819","sister chromatid segregation","28/541",0.00026378816074684,28
+"VL","GO:0000070","mitotic sister chromatid segregation","25/541",0.00026378816074684,25
+"VL","GO:0000377","RNA splicing, via transesterification reactions with bulged adenosine as nucleophile","32/541",0.000273799616838781,32
+"VL","GO:0000398","mRNA splicing, via spliceosome","32/541",0.000273799616838781,32
+"VL","GO:0000375","RNA splicing, via transesterification reactions","32/541",0.000340824767522495,32
+"VL","GO:0098813","nuclear chromosome segregation","32/541",0.000424028464888898,32
+"VL","GO:0140014","mitotic nuclear division","30/541",0.000436162384013621,30
+"VL","GO:0140694","non-membrane-bounded organelle assembly","36/541",0.000844746196889685,36
+"VL","GO:0000280","nuclear division","36/541",0.000935354574012828,36
+"VL","GO:0006397","mRNA processing","41/541",0.00125640684068422,41
+"VL","GO:1905818","regulation of chromosome separation","13/541",0.00187334530203076,13
+"VL","GO:0071826","protein-RNA complex organization","23/541",0.00515475823067044,23
+"VL","GO:0051304","chromosome separation","13/541",0.00546425593381457,13
+"VL","GO:0033044","regulation of chromosome organization","26/541",0.00599651563264667,26
+"VL","GO:0022618","protein-RNA complex assembly","22/541",0.00599651563264667,22
+"VL","GO:0010965","regulation of mitotic sister chromatid separation","11/541",0.00664322425994112,11
+"VL","GO:0048285","organelle fission","36/541",0.00755890946950634,36
+"VL","GO:0042273","ribosomal large subunit biogenesis","11/541",0.00755890946950634,11
+"VL","GO:0051306","mitotic sister chromatid separation","11/541",0.0108647410885236,11
+"VL","GO:0007098","centrosome cycle","16/541",0.0116365545459419,16
+"VL","GO:0032543","mitochondrial translation","18/541",0.0116365545459419,18
+"VL","GO:0007064","mitotic sister chromatid cohesion","7/541",0.0116365545459419,7
+"VL","GO:0007088","regulation of mitotic nuclear division","15/541",0.0116365545459419,15
+"VL","GO:0051983","regulation of chromosome segregation","16/541",0.0116365545459419,16
+"VL","GO:1905906","regulation of amyloid fibril formation","5/541",0.012231075465968,5
+"VL","GO:0010257","NADH dehydrogenase complex assembly","10/541",0.0128604621736673,10
+"VL","GO:0032981","mitochondrial respiratory chain complex I assembly","10/541",0.0128604621736673,10
+"VL","GO:0033047","regulation of mitotic sister chromatid segregation","10/541",0.0128604621736673,10
+"VL","GO:0030071","regulation of mitotic metaphase/anaphase transition","13/541",0.01363535825894,13
+"VL","GO:0045839","negative regulation of mitotic nuclear division","10/541",0.0139231258480238,10
+"VL","GO:0007094","mitotic spindle assembly checkpoint signaling","9/541",0.0139231258480238,9
+"VL","GO:0071173","spindle assembly checkpoint signaling","9/541",0.0139231258480238,9
+"VL","GO:0071174","mitotic spindle checkpoint signaling","9/541",0.0139231258480238,9
+"VL","GO:0097250","mitochondrial respirasome assembly","13/541",0.0139231258480238,13
+"VL","GO:0033045","regulation of sister chromatid segregation","14/541",0.0141283388902246,14
+"VL","GO:0007091","metaphase/anaphase transition of mitotic cell cycle","13/541",0.0141283388902246,13
+"VL","GO:1902099","regulation of metaphase/anaphase transition of cell cycle","13/541",0.0141283388902246,13
+"VL","GO:0051382","kinetochore assembly","5/541",0.0141283388902246,5
+"VL","GO:0031577","spindle checkpoint signaling","9/541",0.0141283388902246,9
+"VL","GO:0033046","negative regulation of sister chromatid segregation","9/541",0.0141283388902246,9
+"VL","GO:0033048","negative regulation of mitotic sister chromatid segregation","9/541",0.0141283388902246,9
+"VL","GO:0045841","negative regulation of mitotic metaphase/anaphase transition","9/541",0.0141283388902246,9
+"VL","GO:2000816","negative regulation of mitotic sister chromatid separation","9/541",0.0141283388902246,9
+"VL","GO:0006364","rRNA processing","22/541",0.0143992463826989,22
+"VL","GO:0031023","microtubule organizing center organization","16/541",0.0143992463826989,16
+"VL","GO:0051784","negative regulation of nuclear division","10/541",0.0153703386274349,10
+"VL","GO:1902100","negative regulation of metaphase/anaphase transition of cell cycle","9/541",0.0156967668492195,9
+"VL","GO:1905819","negative regulation of chromosome separation","9/541",0.0156967668492195,9
+"VL","GO:0044784","metaphase/anaphase transition of cell cycle","13/541",0.0156967668492195,13
+"VL","GO:0000226","microtubule cytoskeleton organization","41/541",0.0181524445331288,41
+"VL","GO:0051985","negative regulation of chromosome segregation","9/541",0.0185292998439278,9
+"VL","GO:0000245","spliceosomal complex assembly","11/541",0.0198221957750695,11
+"VL","GO:1902850","microtubule cytoskeleton organization involved in mitosis","18/541",0.0199223637103267,18
+"VL","GO:0051783","regulation of nuclear division","15/541",0.0204288547500254,15
+"VL","GO:0007093","mitotic cell cycle checkpoint signaling","16/541",0.0210028852035896,16
+"VL","GO:0071103","DNA conformation change","12/541",0.0233232609619973,12
+"VL","GO:0065004","protein-DNA complex assembly","18/541",0.0247055172685694,18
+"VL","GO:0034508","centromere complex assembly","6/541",0.0247055172685694,6
+"VL","GO:2001252","positive regulation of chromosome organization","14/541",0.0249699021451066,14
+"VL","GO:0002181","cytoplasmic translation","15/541",0.0259702305346356,15
+"VL","GO:0032392","DNA geometric change","11/541",0.0313970522987152,11
+"VL","GO:0071824","protein-DNA complex organization","19/541",0.0316225364091825,19
+"VL","GO:0016072","rRNA metabolic process","23/541",0.0319423349039674,23
+"VL","GO:0051168","nuclear export","17/541",0.0332447864512635,17
+"VL","GO:0051225","spindle assembly","14/541",0.0359592247119522,14
+"VL","GO:2001251","negative regulation of chromosome organization","12/541",0.0388970314869767,12
+"VL","GO:0000470","maturation of LSU-rRNA","6/541",0.0394973140810596,6
+"VL","GO:0007052","mitotic spindle organization","15/541",0.0431923167991619,15
+"VL","GO:0000729","DNA double-strand break processing","5/541",0.0493885230285377,5
+"CSU","GO:0022613","ribonucleoprotein complex biogenesis","87/566",1.48286004701328e-28,87
+"CSU","GO:0042254","ribosome biogenesis","69/566",8.43078508938103e-27,69
+"CSU","GO:0016072","rRNA metabolic process","55/566",2.05694085192825e-20,55
+"CSU","GO:0006364","rRNA processing","49/566",1.27001188943325e-18,49
+"CSU","GO:0042274","ribosomal small subunit biogenesis","26/566",3.40929508234999e-10,26
+"CSU","GO:0042273","ribosomal large subunit biogenesis","19/566",4.83341616113592e-09,19
+"CSU","GO:0006403","RNA localization","32/566",4.6119084893349e-08,32
+"CSU","GO:0030490","maturation of SSU-rRNA","17/566",4.83389382130126e-08,17
+"CSU","GO:0006954","inflammatory response","62/566",2.35675675722836e-06,62
+"CSU","GO:0000462","maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)","12/566",2.81799155221079e-06,12
+"CSU","GO:0034504","protein localization to nucleus","37/566",1.41146006548464e-05,37
+"CSU","GO:0006913","nucleocytoplasmic transport","38/566",1.61961451280135e-05,38
+"CSU","GO:0051169","nuclear transport","38/566",1.61961451280135e-05,38
+"CSU","GO:0000470","maturation of LSU-rRNA","10/566",2.62371202378896e-05,10
+"CSU","GO:0051236","establishment of RNA localization","23/566",6.57697096548664e-05,23
+"CSU","GO:0050727","regulation of inflammatory response","34/566",9.66307844760654e-05,34
+"CSU","GO:0050657","nucleic acid transport","22/566",0.000140050629039236,22
+"CSU","GO:0050658","RNA transport","22/566",0.000140050629039236,22
+"CSU","GO:0022618","protein-RNA complex assembly","26/566",0.000151528448844889,26
+"CSU","GO:0002252","immune effector process","47/566",0.000167257544018969,47
+"CSU","GO:0051168","nuclear export","23/566",0.000183965810687364,23
+"CSU","GO:1990266","neutrophil migration","15/566",0.000183965810687364,15
+"CSU","GO:0006882","intracellular zinc ion homeostasis","10/566",0.000183965810687364,10
+"CSU","GO:0031348","negative regulation of defense response","27/566",0.00020165980534872,27
+"CSU","GO:0097193","intrinsic apoptotic signaling pathway","33/566",0.00020165980534872,33
+"CSU","GO:0032102","negative regulation of response to external stimulus","34/566",0.00020165980534872,34
+"CSU","GO:0010332","response to gamma radiation","12/566",0.000280630976266642,12
+"CSU","GO:0071826","protein-RNA complex organization","26/566",0.000280630976266642,26
+"CSU","GO:0043068","positive regulation of programmed cell death","47/566",0.000280630976266642,47
+"CSU","GO:0072331","signal transduction by p53 class mediator","22/566",0.000370042461597041,22
+"CSU","GO:0032760","positive regulation of tumor necrosis factor production","14/566",0.000380638863462673,14
+"CSU","GO:0000463","maturation of LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)","7/566",0.000380638863462673,7
+"CSU","GO:0071216","cellular response to biotic stimulus","25/566",0.000384466829432496,25
+"CSU","GO:0001819","positive regulation of cytokine production","38/566",0.000403549333975877,38
+"CSU","GO:0010608","post-transcriptional regulation of gene expression","45/566",0.000469408071836031,45
+"CSU","GO:1904356","regulation of telomere maintenance via telomere lengthening","12/566",0.000494645831555221,12
+"CSU","GO:0006909","phagocytosis","23/566",0.000580729512279588,23
+"CSU","GO:0032210","regulation of telomere maintenance via telomerase","11/566",0.000580729512279588,11
+"CSU","GO:1903557","positive regulation of tumor necrosis factor superfamily cytokine production","14/566",0.000580729512279588,14
+"CSU","GO:0006405","RNA export from nucleus","15/566",0.000580729512279588,15
+"CSU","GO:0032212","positive regulation of telomere maintenance via telomerase","8/566",0.000580729512279588,8
+"CSU","GO:0015931","nucleobase-containing compound transport","25/566",0.000611017017768183,25
+"CSU","GO:0002468","dendritic cell antigen processing and presentation","6/566",0.000664707721282713,6
+"CSU","GO:0006360","transcription by RNA polymerase I","13/566",0.000776177855017549,13
+"CSU","GO:0032103","positive regulation of response to external stimulus","45/566",0.000952606188385978,45
+"CSU","GO:0043065","positive regulation of apoptotic process","44/566",0.00100643365728611,44
+"CSU","GO:2001242","regulation of intrinsic apoptotic signaling pathway","21/566",0.00108356597128428,21
+"CSU","GO:0031349","positive regulation of defense response","38/566",0.00108356597128428,38
+"CSU","GO:0097530","granulocyte migration","16/566",0.0011005663165935,16
+"CSU","GO:1904358","positive regulation of telomere maintenance via telomere lengthening","8/566",0.00115439998195678,8
+"CSU","GO:0001817","regulation of cytokine production","51/566",0.00118112074063417,51
+"CSU","GO:0007004","telomere maintenance via telomerase","12/566",0.00118112074063417,12
+"CSU","GO:0001816","cytokine production","51/566",0.00118112074063417,51
+"CSU","GO:0071276","cellular response to cadmium ion","7/566",0.00118112074063417,7
+"CSU","GO:0090670","RNA localization to Cajal body","7/566",0.00118112074063417,7
+"CSU","GO:0090671","telomerase RNA localization to Cajal body","7/566",0.00118112074063417,7
+"CSU","GO:0090672","telomerase RNA localization","7/566",0.00118112074063417,7
+"CSU","GO:0090685","RNA localization to nucleus","7/566",0.00118112074063417,7
+"CSU","GO:0042110","T cell activation","43/566",0.00118112074063417,43
+"CSU","GO:0006278","RNA-templated DNA biosynthetic process","12/566",0.00129104776199726,12
+"CSU","GO:0050728","negative regulation of inflammatory response","18/566",0.00137760813666102,18
+"CSU","GO:0032640","tumor necrosis factor production","17/566",0.00138482622721362,17
+"CSU","GO:0032680","regulation of tumor necrosis factor production","17/566",0.00138482622721362,17
+"CSU","GO:0010833","telomere maintenance via telomere lengthening","13/566",0.00152611620340834,13
+"CSU","GO:0006606","protein import into nucleus","20/566",0.00162944531332979,20
+"CSU","GO:0050900","leukocyte migration","29/566",0.00162944531332979,29
+"CSU","GO:0000460","maturation of 5.8S rRNA","9/566",0.00164645107048608,9
+"CSU","GO:0032731","positive regulation of interleukin-1 beta production","9/566",0.00164645107048608,9
+"CSU","GO:0046040","IMP metabolic process","6/566",0.00164645107048608,6
+"CSU","GO:0051028","mRNA transport","17/566",0.00166560724608405,17
+"CSU","GO:0006458","'de novo' protein folding","10/566",0.00166560724608405,10
+"CSU","GO:0097529","myeloid leukocyte migration","20/566",0.00166560724608405,20
+"CSU","GO:0002831","regulation of response to biotic stimulus","40/566",0.00167316574239538,40
+"CSU","GO:0071706","tumor necrosis factor superfamily cytokine production","17/566",0.00179554775756667,17
+"CSU","GO:1903555","regulation of tumor necrosis factor superfamily cytokine production","17/566",0.00179554775756667,17
+"CSU","GO:0030099","myeloid cell differentiation","35/566",0.00196255928139104,35
+"CSU","GO:0045088","regulation of innate immune response","35/566",0.00208275015838521,35
+"CSU","GO:0051170","import into nucleus","20/566",0.00219893161573707,20
+"CSU","GO:0030593","neutrophil chemotaxis","11/566",0.00222849046847527,11
+"CSU","GO:0007159","leukocyte cell-cell adhesion","32/566",0.00235737073829179,32
+"CSU","GO:0002283","neutrophil activation involved in immune response","6/566",0.00241615137425332,6
+"CSU","GO:0097501","stress response to metal ion","6/566",0.00241615137425332,6
+"CSU","GO:1902570","protein localization to nucleolus","6/566",0.00241615137425332,6
+"CSU","GO:0031667","response to nutrient levels","38/566",0.0030467524525147,38
+"CSU","GO:1901796","regulation of signal transduction by p53 class mediator","14/566",0.0030467524525147,14
+"CSU","GO:0006997","nucleus organization","18/566",0.00318650116683799,18
+"CSU","GO:0032204","regulation of telomere maintenance","16/566",0.0032822772959545,16
+"CSU","GO:0002444","myeloid leukocyte mediated immunity","13/566",0.00333938970911219,13
+"CSU","GO:1900182","positive regulation of protein localization to nucleus","14/566",0.00341007443942594,14
+"CSU","GO:0002697","regulation of immune effector process","29/566",0.00352310103888784,29
+"CSU","GO:0071294","cellular response to zinc ion","6/566",0.00366591351287901,6
+"CSU","GO:0002218","activation of innate immune response","27/566",0.00366812132203806,27
+"CSU","GO:0071353","cellular response to interleukin-4","8/566",0.00366812132203806,8
+"CSU","GO:0006417","regulation of translation","33/566",0.00367396698330404,33
+"CSU","GO:0051084","'de novo' post-translational protein folding","9/566",0.0036946096879859,9
+"CSU","GO:0009615","response to virus","32/566",0.00382968436054603,32
+"CSU","GO:1900180","regulation of protein localization to nucleus","18/566",0.00405393650611736,18
+"CSU","GO:0006457","protein folding","21/566",0.00405394206070829,21
+"CSU","GO:0002366","leukocyte activation involved in immune response","26/566",0.00414358626496128,26
+"CSU","GO:0010934","macrophage cytokine production","8/566",0.00446709752147012,8
+"CSU","GO:0010935","regulation of macrophage cytokine production","8/566",0.00446709752147012,8
+"CSU","GO:0045943","positive regulation of transcription by RNA polymerase I","8/566",0.00446709752147012,8
+"CSU","GO:0070670","response to interleukin-4","8/566",0.00446709752147012,8
+"CSU","GO:0035194","regulatory ncRNA-mediated post-transcriptional gene silencing","10/566",0.00480041106931277,10
+"CSU","GO:0002263","cell activation involved in immune response","26/566",0.00498625410470826,26
+"CSU","GO:0061687","detoxification of inorganic compound","6/566",0.00498625410470826,6
+"CSU","GO:0010273","detoxification of copper ion","5/566",0.00517574271043881,5
+"CSU","GO:1990169","stress response to copper ion","5/566",0.00517574271043881,5
+"CSU","GO:2000232","regulation of rRNA processing","5/566",0.00517574271043881,5
+"CSU","GO:0006356","regulation of transcription by RNA polymerase I","9/566",0.0052570336267553,9
+"CSU","GO:0002526","acute inflammatory response","11/566",0.00539744198525532,11
+"CSU","GO:0009167","purine ribonucleoside monophosphate metabolic process","8/566",0.00541071579246014,8
+"CSU","GO:0042119","neutrophil activation","8/566",0.00541071579246014,8
+"CSU","GO:0042255","ribosome assembly","10/566",0.00541118708555522,10
+"CSU","GO:0052548","regulation of endopeptidase activity","22/566",0.00574798319398117,22
+"CSU","GO:0045089","positive regulation of innate immune response","29/566",0.00619890743103331,29
+"CSU","GO:0032732","positive regulation of interleukin-1 production","9/566",0.00619890743103331,9
+"CSU","GO:0035195","miRNA-mediated post-transcriptional gene silencing","9/566",0.00619890743103331,9
+"CSU","GO:0031669","cellular response to nutrient levels","24/566",0.00650167823162315,24
+"CSU","GO:0035458","cellular response to interferon-beta","6/566",0.00664427584734804,6
+"CSU","GO:0046033","AMP metabolic process","6/566",0.00664427584734804,6
+"CSU","GO:0050764","regulation of phagocytosis","11/566",0.00704303868383495,11
+"CSU","GO:0009636","response to toxic substance","21/566",0.00704303868383495,21
+"CSU","GO:0002443","leukocyte mediated immunity","27/566",0.00706294215043387,27
+"CSU","GO:0050778","positive regulation of immune response","46/566",0.00706946609174417,46
+"CSU","GO:0032206","positive regulation of telomere maintenance","12/566",0.00714296791943213,12
+"CSU","GO:0002833","positive regulation of response to biotic stimulus","30/566",0.00714296791943213,30
+"CSU","GO:0050766","positive regulation of phagocytosis","9/566",0.00716424043281696,9
+"CSU","GO:0006167","AMP biosynthetic process","5/566",0.00763165387346138,5
+"CSU","GO:0002274","myeloid leukocyte activation","19/566",0.00770655629335229,19
+"CSU","GO:0098754","detoxification","15/566",0.00770655629335229,15
+"CSU","GO:0009126","purine nucleoside monophosphate metabolic process","8/566",0.00785908511384876,8
+"CSU","GO:0061082","myeloid leukocyte cytokine production","9/566",0.00857171621705691,9
+"CSU","GO:0009617","response to bacterium","38/566",0.0087003059668323,38
+"CSU","GO:0060907","positive regulation of macrophage cytokine production","6/566",0.00872904993594413,6
+"CSU","GO:2000278","regulation of DNA biosynthetic process","13/566",0.00872904993594413,13
+"CSU","GO:0032481","positive regulation of type I interferon production","11/566",0.00887348555046103,11
+"CSU","GO:0071621","granulocyte chemotaxis","12/566",0.0089144637493271,12
+"CSU","GO:0040008","regulation of growth","39/566",0.00928190458595483,39
+"CSU","GO:0000966","RNA 5'-end processing","8/566",0.00928190458595483,8
+"CSU","GO:0006911","phagocytosis, engulfment","8/566",0.00928190458595483,8
+"CSU","GO:0010043","response to zinc ion","8/566",0.00928190458595483,8
+"CSU","GO:0036230","granulocyte activation","8/566",0.00928190458595483,8
+"CSU","GO:0002237","response to molecule of bacterial origin","26/566",0.00930944043780738,26
+"CSU","GO:0042149","cellular response to glucose starvation","9/566",0.00969757304317607,9
+"CSU","GO:0006163","purine nucleotide metabolic process","30/566",0.00994114716848426,30
+"CSU","GO:0002683","negative regulation of immune system process","34/566",0.0102509896534549,34
+"CSU","GO:0006177","GMP biosynthetic process","5/566",0.0108337486571622,5
+"CSU","GO:0016441","post-transcriptional gene silencing","10/566",0.0108337486571622,10
+"CSU","GO:0002286","T cell activation involved in immune response","14/566",0.0108538796467766,14
+"CSU","GO:0002886","regulation of myeloid leukocyte mediated immunity","9/566",0.0113257972120901,9
+"CSU","GO:0009161","ribonucleoside monophosphate metabolic process","9/566",0.0113257972120901,9
+"CSU","GO:0002250","adaptive immune response","31/566",0.0120364604890632,31
+"CSU","GO:0000723","telomere maintenance","18/566",0.0126273876505277,18
+"CSU","GO:0032496","response to lipopolysaccharide","25/566",0.0132004806504544,25
+"CSU","GO:0002253","activation of immune response","36/566",0.0133250099519033,36
+"CSU","GO:0031638","zymogen activation","9/566",0.0133250099519033,9
+"CSU","GO:1902622","regulation of neutrophil migration","8/566",0.0133250099519033,8
+"CSU","GO:2000377","regulation of reactive oxygen species metabolic process","15/566",0.0144706495184614,15
+"CSU","GO:0002440","production of molecular mediator of immune response","19/566",0.0147279789181699,19
+"CSU","GO:0046651","lymphocyte proliferation","22/566",0.0147445996081861,22
+"CSU","GO:0061081","positive regulation of myeloid leukocyte cytokine production involved in immune response","7/566",0.0147445996081861,7
+"CSU","GO:2001233","regulation of apoptotic signaling pathway","29/566",0.014881966398225,29
+"CSU","GO:0000027","ribosomal large subunit assembly","5/566",0.014881966398225,5
+"CSU","GO:0000054","ribosomal subunit export from nucleus","5/566",0.014881966398225,5
+"CSU","GO:0000479","endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)","5/566",0.014881966398225,5
+"CSU","GO:0033750","ribosome localization","5/566",0.014881966398225,5
+"CSU","GO:2000573","positive regulation of DNA biosynthetic process","9/566",0.0150446853633313,9
+"CSU","GO:0045926","negative regulation of growth","19/566",0.0152400429557509,19
+"CSU","GO:0043299","leukocyte degranulation","10/566",0.0158270616065024,10
+"CSU","GO:0071219","cellular response to molecule of bacterial origin","18/566",0.0165494182914824,18
+"CSU","GO:0032479","regulation of type I interferon production","14/566",0.017087845648475,14
+"CSU","GO:0032606","type I interferon production","14/566",0.017087845648475,14
+"CSU","GO:0008380","RNA splicing","34/566",0.0171593765883059,34
+"CSU","GO:2000630","positive regulation of miRNA metabolic process","9/566",0.017284623664825,9
+"CSU","GO:0002758","innate immune response-activating signaling pathway","23/566",0.017284623664825,23
+"CSU","GO:0042116","macrophage activation","11/566",0.017284623664825,11
+"CSU","GO:0032200","telomere organization","18/566",0.017284623664825,18
+"CSU","GO:0097190","apoptotic signaling pathway","41/566",0.017284623664825,41
+"CSU","GO:0032611","interleukin-1 beta production","10/566",0.017284623664825,10
+"CSU","GO:0032651","regulation of interleukin-1 beta production","10/566",0.017284623664825,10
+"CSU","GO:0000466","maturation of 5.8S rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)","6/566",0.017284623664825,6
+"CSU","GO:0035456","response to interferon-beta","6/566",0.017284623664825,6
+"CSU","GO:0046037","GMP metabolic process","6/566",0.017284623664825,6
+"CSU","GO:0046686","response to cadmium ion","8/566",0.0173889055815973,8
+"CSU","GO:0070661","leukocyte proliferation","24/566",0.0178691654914557,24
+"CSU","GO:0002285","lymphocyte activation involved in immune response","19/566",0.0178691654914557,19
+"CSU","GO:0030595","leukocyte chemotaxis","17/566",0.0179726450835627,17
+"CSU","GO:0042594","response to starvation","21/566",0.0179726450835627,21
+"CSU","GO:0032943","mononuclear cell proliferation","22/566",0.0183999986694893,22
+"CSU","GO:0048145","regulation of fibroblast proliferation","11/566",0.0186215456428852,11
+"CSU","GO:0006760","folic acid-containing compound metabolic process","5/566",0.0189702561431973,5
+"CSU","GO:0009168","purine ribonucleoside monophosphate biosynthetic process","5/566",0.0189702561431973,5
+"CSU","GO:0061077","chaperone-mediated protein folding","10/566",0.0189702561431973,10
+"CSU","GO:0045807","positive regulation of endocytosis","14/566",0.0189702561431973,14
+"CSU","GO:0009117","nucleotide metabolic process","32/566",0.0195313256832675,32
+"CSU","GO:0045646","regulation of erythrocyte differentiation","8/566",0.0199344348365741,8
+"CSU","GO:0001906","cell killing","16/566",0.0204104454608622,16
+"CSU","GO:0009410","response to xenobiotic stimulus","28/566",0.0207805031841753,28
+"CSU","GO:0045730","respiratory burst","6/566",0.0209521935958853,6
+"CSU","GO:0050729","positive regulation of inflammatory response","13/566",0.0209521935958853,13
+"CSU","GO:0001909","leukocyte mediated cytotoxicity","12/566",0.0209521935958853,12
+"CSU","GO:0048144","fibroblast proliferation","12/566",0.0209521935958853,12
+"CSU","GO:0002720","positive regulation of cytokine production involved in immune response","10/566",0.0210812485896808,10
+"CSU","GO:0062012","regulation of small molecule metabolic process","24/566",0.0214883901926252,24
+"CSU","GO:0002764","immune response-regulating signaling pathway","34/566",0.0233998981690997,34
+"CSU","GO:0050777","negative regulation of immune response","17/566",0.0234544178481378,17
+"CSU","GO:0071222","cellular response to lipopolysaccharide","17/566",0.0234544178481378,17
+"CSU","GO:0050865","regulation of cell activation","38/566",0.0237433792563054,38
+"CSU","GO:0002224","toll-like receptor signaling pathway","10/566",0.0237433792563054,10
+"CSU","GO:0007339","binding of sperm to zona pellucida","5/566",0.0246795132906048,5
+"CSU","GO:0046112","nucleobase biosynthetic process","5/566",0.0246795132906048,5
+"CSU","GO:1900368","regulation of post-transcriptional gene silencing by regulatory ncRNA","5/566",0.0246795132906048,5
+"CSU","GO:0002757","immune response-activating signaling pathway","32/566",0.0247029461951612,32
+"CSU","GO:1902532","negative regulation of intracellular signal transduction","42/566",0.0247029461951612,42
+"CSU","GO:1905897","regulation of response to endoplasmic reticulum stress","11/566",0.0247029461951612,11
+"CSU","GO:0002700","regulation of production of molecular mediator of immune response","16/566",0.0247029461951612,16
+"CSU","GO:0010212","response to ionizing radiation","14/566",0.0259777436269531,14
+"CSU","GO:0099024","plasma membrane invagination","8/566",0.0261282518794347,8
+"CSU","GO:0030218","erythrocyte differentiation","15/566",0.0265175602958288,15
+"CSU","GO:0002702","positive regulation of production of molecular mediator of immune response","13/566",0.0269387875187418,13
+"CSU","GO:0002478","antigen processing and presentation of exogenous peptide antigen","7/566",0.0270158173359101,7
+"CSU","GO:1903573","negative regulation of response to endoplasmic reticulum stress","7/566",0.0270158173359101,7
+"CSU","GO:0080135","regulation of cellular response to stress","36/566",0.0273625762737076,36
+"CSU","GO:0072593","reactive oxygen species metabolic process","18/566",0.0273625762737076,18
+"CSU","GO:0002460","adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains","22/566",0.0275309561158046,22
+"CSU","GO:0043086","negative regulation of catalytic activity","29/566",0.0280863794801864,29
+"CSU","GO:0002573","myeloid leukocyte differentiation","19/566",0.0280863794801864,19
+"CSU","GO:0009267","cellular response to starvation","18/566",0.0291546028058023,18
+"CSU","GO:0051604","protein maturation","39/566",0.0293990387081508,39
+"CSU","GO:0002699","positive regulation of immune effector process","19/566",0.0299428490926531,19
+"CSU","GO:0007584","response to nutrient","15/566",0.0303870118463606,15
+"CSU","GO:0052547","regulation of peptidase activity","23/566",0.0303870118463606,23
+"CSU","GO:0009127","purine nucleoside monophosphate biosynthetic process","5/566",0.030850537136647,5
+"CSU","GO:0014850","response to muscle activity","5/566",0.030850537136647,5
+"CSU","GO:0060147","regulation of post-transcriptional gene silencing","5/566",0.030850537136647,5
+"CSU","GO:0043200","response to amino acid","13/566",0.031129057935865,13
+"CSU","GO:0002367","cytokine production involved in immune response","12/566",0.0321911924781678,12
+"CSU","GO:0002718","regulation of cytokine production involved in immune response","12/566",0.0321911924781678,12
+"CSU","GO:0070486","leukocyte aggregation","4/566",0.0323793773564653,4
+"CSU","GO:1900542","regulation of purine nucleotide metabolic process","9/566",0.033501673546195,9
+"CSU","GO:0006753","nucleoside phosphate metabolic process","39/566",0.0348811569844137,39
+"CSU","GO:0010563","negative regulation of phosphorus metabolic process","22/566",0.0357328048948896,22
+"CSU","GO:0045936","negative regulation of phosphate metabolic process","22/566",0.0357328048948896,22
+"CSU","GO:0072521","purine-containing compound metabolic process","34/566",0.0357328048948896,34
+"CSU","GO:0019693","ribose phosphate metabolic process","24/566",0.0362853527103212,24
+"CSU","GO:0046688","response to copper ion","6/566",0.0362853527103212,6
+"CSU","GO:0090022","regulation of neutrophil chemotaxis","6/566",0.0362853527103212,6
+"CSU","GO:1900101","regulation of endoplasmic reticulum unfolded protein response","6/566",0.0362853527103212,6
+"CSU","GO:2001252","positive regulation of chromosome organization","13/566",0.036289134765422,13
+"CSU","GO:1901699","cellular response to nitrogen compound","37/566",0.036604201260149,37
+"CSU","GO:0006140","regulation of nucleotide metabolic process","9/566",0.037085812700321,9
+"CSU","GO:0006984","ER-nucleus signaling pathway","8/566",0.0378428694833571,8
+"CSU","GO:0002825","regulation of T-helper 1 type immune response","5/566",0.038218557870703,5
+"CSU","GO:0010661","positive regulation of muscle cell apoptotic process","5/566",0.038218557870703,5
+"CSU","GO:0030220","platelet formation","5/566",0.038218557870703,5
+"CSU","GO:0060966","regulation of gene silencing by regulatory ncRNA","5/566",0.038218557870703,5
+"CSU","GO:0007229","integrin-mediated signaling pathway","11/566",0.0383879206505893,11
+"CSU","GO:0048511","rhythmic process","21/566",0.0388111881239415,21
+"CSU","GO:0051054","positive regulation of DNA metabolic process","24/566",0.0389117337569234,24
+"CSU","GO:0055086","nucleobase-containing small molecule metabolic process","40/566",0.0391157957799182,40
+"CSU","GO:0034976","response to endoplasmic reticulum stress","23/566",0.039620781118877,23
+"CSU","GO:0002532","production of molecular mediator involved in inflammatory response","9/566",0.0408018994017476,9
+"CSU","GO:0009123","nucleoside monophosphate metabolic process","9/566",0.0408018994017476,9
+"CSU","GO:0010324","membrane invagination","8/566",0.0423860459491493,8
+"CSU","GO:0032350","regulation of hormone metabolic process","6/566",0.0425112887637943,6
+"CSU","GO:0002694","regulation of leukocyte activation","34/566",0.0431447739800858,34
+"CSU","GO:0006397","mRNA processing","34/566",0.0431447739800858,34
+"CSU","GO:0051767","nitric-oxide synthase biosynthetic process","4/566",0.0431447739800858,4
+"CSU","GO:0051769","regulation of nitric-oxide synthase biosynthetic process","4/566",0.0431447739800858,4
+"CSU","GO:0031047","regulatory ncRNA-mediated gene silencing","12/566",0.0437640312658631,12
+"CSU","GO:0006469","negative regulation of protein kinase activity","13/566",0.0448677380314264,13
+"CSU","GO:1903131","mononuclear cell differentiation","33/566",0.0451628850267759,33
+"CSU","GO:0019882","antigen processing and presentation","11/566",0.045415723919778,11
+"CSU","GO:1901293","nucleoside phosphate biosynthetic process","22/566",0.0465344548596937,22
+"CSU","GO:1900543","negative regulation of purine nucleotide metabolic process","5/566",0.0465396371443914,5
+"CSU","GO:0032615","interleukin-12 production","7/566",0.0465396371443914,7
+"CSU","GO:0032655","regulation of interleukin-12 production","7/566",0.0465396371443914,7
+"CSU","GO:0043300","regulation of leukocyte degranulation","7/566",0.0465396371443914,7
+"CSU","GO:1903037","regulation of leukocyte cell-cell adhesion","25/566",0.0466418802869688,25
+"CSU","GO:0098586","cellular response to virus","8/566",0.0466418802869688,8
+"CSU","GO:0030003","intracellular monoatomic cation homeostasis","31/566",0.0469368341052253,31
+"CSU","GO:0071248","cellular response to metal ion","14/566",0.0472883796255733,14
+"CSU","GO:0072594","establishment of protein localization to organelle","33/566",0.0476191914913562,33
+"CSU","GO:0019221","cytokine-mediated signaling pathway","31/566",0.0485549170609799,31
+"CSU","GO:0009156","ribonucleoside monophosphate biosynthetic process","6/566",0.0485549170609799,6
+"CSU","GO:0038094","Fc-gamma receptor signaling pathway","6/566",0.0485549170609799,6
+"CSU","GO:0048147","negative regulation of fibroblast proliferation","6/566",0.0485549170609799,6
+"CSU","GO:0071347","cellular response to interleukin-1","9/566",0.0488115910772542,9
+"CSU","GO:0034101","erythrocyte homeostasis","15/566",0.0488115910772542,15
+"CSU","GO:0002275","myeloid cell activation involved in immune response","10/566",0.0488115910772542,10
+"CSU","GO:0032612","interleukin-1 production","10/566",0.0488115910772542,10
+"CSU","GO:0032652","regulation of interleukin-1 production","10/566",0.0488115910772542,10
+"CSU","GO:0070482","response to oxygen levels","24/566",0.0489255827069344,24
+"CSU","GO:0001666","response to hypoxia","22/566",0.0490523316074901,22

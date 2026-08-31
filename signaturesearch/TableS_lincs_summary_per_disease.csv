@@ -1,0 +1,7 @@
+"Disease","Signatures_tested","Unique_compounds","Reversal_rows_NCS_neg","Unique_reversal_compounds","Signif_rows_FDR05","Signif_reversal_rows","Best_NCS"
+"PS",45956,8140,14871,6017,474,441,-1.992
+"AD",45956,8140,10862,5162,3446,2267,-1.957
+"HS",45956,8140,6730,4088,0,0,-1.541
+"VL",45956,8140,15465,6152,14880,8270,-1.991
+"CSU",45956,8140,15887,6155,16201,8781,-2.189
+"SLS",45956,8140,12743,5845,20246,12267,-1.851

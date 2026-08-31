@@ -1,0 +1,27 @@
+Skin Diseasome — computing environment
+
+Recorded: 2026-08-31 
+R version 4.4.1 (2024-06-14) 
+Platform: aarch64-apple-darwin20 
+
+Package versions used in the analysis:
+  readxl                 1.4.5
+  dplyr                  1.1.4
+  tidyverse              2.0.0
+  data.table             1.16.2
+  ggplot2                4.0.3
+  UpSetR                 not installed on this machine
+  ComplexUpset           not installed on this machine
+  VennDiagram            not installed on this machine
+  clusterProfiler        4.14.6
+  org.Hs.eg.db           3.20.0
+  AnnotationDbi          1.68.0
+  signatureSearch        1.20.0
+  signatureSearchData    1.20.0
+  disgenet2r             not installed on this machine
+  igraph                 2.2.2
+  ExperimentHub          2.14.0
+
+LINCS reference: signatureSearchData `lincs` (ExperimentHub EH3226; GSE92742 Level 5 z-scores, Subramanian et al. 2017)
+Interactome:     Menche et al. 2015, 13,460 nodes / 141,296 links (see network/)
+Python (network/separation_py3.py): Python 3.13, networkx 3.6.1, numpy 2.5.2

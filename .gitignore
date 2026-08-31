@@ -1,0 +1,31 @@
+# OS junk
+.DS_Store
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python (docx conversion venv, if ever created inside the repo)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Credentials — never commit these
+.Renviron
+.env
+*.pem
+
+# Editor and tooling local settings (machine-specific, not project config)
+.vscode/
+.idea/
+
+# Large external caches (e.g. signatureSearch/ExperimentHub LINCS reference)
+# is stored outside this repo by default; this is a guard in case that changes.
+*.sqlite
+ExperimentHub/
+
+# Word lock/temp files
+~$*
